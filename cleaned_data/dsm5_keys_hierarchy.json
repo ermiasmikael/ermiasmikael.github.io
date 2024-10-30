@@ -1,0 +1,2341 @@
+{
+  "SOMATIC SYMPTOM AND RELATED DISORDERS": {
+    "Description": "",
+    "Somatic Symptom Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Somatic Symptom Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Illness Anxiety Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Functional Consequences of Illness Anxiety Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Functional Neurological Symptom Disorder (Conversion Disorder)": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Functional Neurological Symptom Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Psychological Factors Affecting Other Medical Conditions": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Functional Consequences of Psychological FactorsvAffecting Other Medical Conditions": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Factitious Disorder": {
+      "Diagnostic Criteria": "",
+      "Recording Procedures": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Differential Diagnosis": ""
+    },
+    "Other Specified Somatic Symptom and Related Disorder": {
+      "Description": ""
+    },
+    "Unspecified Somatic Symptom and Related Disorders": {
+      "Description": ""
+    }
+  },
+  "MOTOR DISORDERS": {
+    "Developmental Coordination Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Functional Consequences of DevelopmentalCoordination Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Stereotypic Movement Disorder": {
+      "Diagnostic Criteria": "",
+      "Recording Procedures": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Tic Disorders": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Tic Disorders": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Other Specified Tic Disorder": {
+      "Description": ""
+    },
+    "Unspecified Tic Disorder": {
+      "Description": ""
+    }
+  },
+  "GENDER DYSPHORIA": {
+    "Description": "",
+    "Gender Dysphoria": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Gender Dysphoria": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Other Specified Gender Dysphoria": {
+      "Description": ""
+    },
+    "Unspecified Gender Dysphoria": {
+      "Description": ""
+    }
+  },
+  "MEDICATION-INDUCED MOVEMENT DISORDERS AND OTHER ADVERSE EFFECTS OF MEDICATION": {
+    "Description": "",
+    "Medication-Induced Parkinsonism": {
+      "Description": "",
+      "G21.11 Antipsychotic Medication- and Other Dopamine Receptor Blocking Agent Induced Parkinsonism": "",
+      "G21.19 Other Medication-Induced Parkinsonism": "",
+      "Differential Diagnosis": ""
+    },
+    "Medication-Induced Acute Dystonia": {
+      "Description": "",
+      "Differential Diagnosis": ""
+    },
+    "Medication-Induced Acute Akathisia": {
+      "Description": "",
+      "Differential Diagnosis": ""
+    },
+    "Tardive Dystonia": {
+      "Description": ""
+    },
+    "Medication-Induced Postural Tremor": {
+      "Description": "",
+      "Differential Diagnosis": ""
+    },
+    "Other Medication-Induced Movement Disorder": {
+      "Description": "",
+      "Differential Diagnosis": ""
+    }
+  },
+  "DISSOCIATIVE DISORDERS": {
+    "Description": "",
+    "Dissociative Identity Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Dissociative Identity Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Dissociative Amnesia": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Dissociative Amnesia": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Depersonalization/Derealization Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Functional Consequences of Depersonalization/Derealization Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Other Specified Dissociative Disorder": {
+      "Description": ""
+    },
+    "Unspecified Dissociative Disorder": {
+      "Description": ""
+    }
+  },
+  "OPIOID-RELATED DISORDERS": {
+    "Opioid Use Disorder": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Opioid Use Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Opioid Intoxication": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Development and Course": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Opioid Withdrawal": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Unspecified Opioid-Related Disorder": {
+      "Description": ""
+    },
+    "Sedative, Hypnotic, or Anxiolytic Use Disorder": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Sedative, Hypnotic, or Anxiolytic Use Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Sedative, Hypnotic, or Anxiolytic Intoxication": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Sedative, Hypnotic, or Anxiolytic Withdrawal": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Diagnostic Markers": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Unspecified Sedative-, Hypnotic-, or Anxiolytic-Related Disorder": {
+      "Description": ""
+    },
+    "Stimulant Use Disorder": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Stimulant Use Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Stimulant Intoxication": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Stimulant Withdrawal": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    }
+  },
+  "OTHER CONDITIONS THAT MAY BE A FOCUS OF CLINICAL ATTENTION": {
+    "Description": "",
+    "Suicidal Behavior": {
+      "Description": ""
+    },
+    "Current Suicidal Behavior": {
+      "T14.91A Initial encounter": "",
+      "T14.91D Subsequent encounter": "",
+      "Z91.51 History of Suicidal Behavior": ""
+    },
+    "Nonsuicidal Self-Injury": {
+      "Description": "",
+      "R45.88 Current Nonsuicidal Self-Injury": "",
+      "Z91.52 History of Nonsuicidal Self-Injury": ""
+    },
+    "Abuse and Neglect": {
+      "Description": ""
+    },
+    "Child Maltreatment and Neglect Problems": {
+      "Child Physical Abuse": "",
+      "Child Physical Abuse, Confirmed": "",
+      "Child Physical Abuse, Suspected": "",
+      "Other Circumstances Related to Child Physical Abuse": "",
+      "Child Sexual Abuse": "",
+      "Child Sexual Abuse, Confirmed": "",
+      "Child Sexual Abuse, Suspected": "",
+      "Other Circumstances Related to Child Sexual Abuse": "",
+      "Child Neglect": "",
+      "Child Neglect, Confirmed": "",
+      "Child Neglect, Suspected": "",
+      "Other Circumstances Related to Child Neglect": "",
+      "Child Psychological Abuse": "",
+      "Child Psychological Abuse, Confirmed": "",
+      "Child Psychological Abuse, Suspected": "",
+      "Other Circumstances Related to Child Psychological Abuse": ""
+    },
+    "Adult Maltreatment and Neglect Problems": {
+      "Spouse or Partner Violence, Physical": "",
+      "Spouse or Partner Violence, Physical, Confirmed": "",
+      "Spouse or Partner Violence, Physical, Suspected": "",
+      "Other Circumstances Related to Spouse or Partner Violence, Physical": "",
+      "Spouse or Partner Violence, Sexual": "",
+      "Spouse or Partner Violence, Sexual, Confirmed": "",
+      "Spouse or Partner Violence, Sexual, Suspected": ""
+    },
+    "Other Circumstances Related to Spouse or Partner Violence, Sexual": {
+      "Description": "",
+      "Spouse or Partner Neglect, Confirmed": "",
+      "Spouse or Partner Neglect, Suspected": ""
+    },
+    "Other Circumstances Related to Spouse or Partner Neglect": {
+      "Description": "",
+      "Z69.11 Encounter for mental health services for victim of spouse or partner neglect": "",
+      "Z91.412 Personal history (past history) of spouse or partner neglect": "",
+      "Z69.12 Encounter for mental health services for perpetrator of spouse or partner neglect": "",
+      "Spouse or Partner Abuse, Psychological, Confirmed": "",
+      "Spouse or Partner Abuse, Psychological, Suspected": "",
+      "Other Circumstances Related to Spouse or Partner Abuse, Psychological": ""
+    },
+    "Adult Abuse by Nonspouse or Nonpartner": {
+      "Description": "",
+      "Adult Physical Abuse by Nonspouse or Nonpartner, Confirmed": "",
+      "Adult Physical Abuse by Nonspouse or Nonpartner, Suspected": "",
+      "Adult Sexual Abuse by Nonspouse or Nonpartner, Confirmed": "",
+      "Adult Sexual Abuse by Nonspouse or Nonpartner, Suspected": "",
+      "Adult Psychological Abuse by Nonspouse or Nonpartner, Confirmed": "",
+      "Adult Psychological Abuse by Nonspouse or Nonpartner, Suspected": ""
+    },
+    "Other Circumstances Related to Adult Abuse by Nonspouse or Nonpartner": {
+      "Z69.81 Encounter for mental health services for victim of nonspousal or nonpartner adult abuse": "",
+      "Z69.82 Encounter for mental health services for perpetrator of nonspousal or nonpartner adult abuse": ""
+    },
+    "Parent-Child Relational Problem": {
+      "Description": "",
+      "Z62.820 Parent-Biological Child": "",
+      "Z62.821 Parent-Adopted Child": "",
+      "Z62.822 Parent-Foster Child": "",
+      "Z62.898 Other Caregiver-Child": "",
+      "Z62.891 Sibling Relational Problem": "",
+      "Z63.0 Relationship Distress With Spouse or Intimate Partner": ""
+    },
+    "Problems Related to the Family Environment": {
+      "Z62.29 Upbringing Away From Parents": "",
+      "Z62.898 Child Affected by Parental Relationship Distress": "",
+      "Z63.5 Disruption of Family by Separation or Divorce": "",
+      "Z63.8 High Expressed Emotion Level Within Family": "",
+      "Z55.0 Illiteracy and Low-Level Literacy": "",
+      "Z55.1 Schooling Unavailable and Unattainable": "",
+      "Z55.2 Failed School Examinations": "",
+      "Z55.3 Underachievement in School": "",
+      "Z55.4 Educational Maladjustment and Discord With Teachers and Classmates": "",
+      "Z55.8 Problems Related to Inadequate Teaching": "",
+      "Z55.9 Other Problems Related to Education and Literacy Occupational Problems": "",
+      "Z56.82 Problem Related to Current Military Deployment Status": "",
+      "Z56.0 Unemployment": "",
+      "Z56.1 Change of Job": "",
+      "Z56.2 Threat of Job Loss": "",
+      "Z56.3 Stressful Work Schedule": "",
+      "Z56.4 Discord With Boss and Workmates": "",
+      "Z56.5 Uncongenial Work Environment": "",
+      "Z56.6 Other Physical and Mental Strain Related to Work": "",
+      "Z56.81 Sexual Harassment on the Job": "",
+      "Z56.9 Other Problem Related to Employment Housing Problems": "",
+      "Z59.01 Sheltered Homelessness": "",
+      "Z59.02 Unsheltered Homelessness": "",
+      "Z59.1 Inadequate Housing": "",
+      "Z59.2 Discord With Neighbor, Lodger, or Landlord": "",
+      "Z59.3 Problem Related to Living in a Residential Institution": "",
+      "Z59.41 Food Insecurity": "",
+      "Z58.6 Lack of Safe Drinking Water": "",
+      "Z59.5 Extreme Poverty": "",
+      "Z59.6 Low Income": "",
+      "Z59.7 Insufficient Social or Health Insurance or Welfare Support": "",
+      "Z59.9 Other Economic Problem": "",
+      "Z60.2 Problem Related to Living Alone": "",
+      "Z60.3 Acculturation Difficulty": "",
+      "Z60.4 Social Exclusion or Rejection": "",
+      "Z60.5 Target of (Perceived) Adverse Discrimination or Persecution": "",
+      "Z60.9 Other Problem Related to Social Environment": "",
+      "Z65.1 Imprisonment or Other Incarceration": "",
+      "Z65.2 Problems Related to Release From Prison": "",
+      "Z65.3 Problems Related to Other Legal Circumstances": ""
+    },
+    "Problems Related to Other Psychosocial, Personal, and Environmental Circumstances": {
+      "Z72.9 Problem Related to Lifestyle": "",
+      "Z64.1 Problems Related to Multiparity": "",
+      "Z64.4 Discord With Social Service Provider, Including Probation Officer, Case Manager, or Social Services Worker": "",
+      "Z65.4 Victim of Crime": "",
+      "Z65.4 Victim of Terrorism or Torture": "",
+      "Z65.5 Exposure to Disaster, War, or Other Hostilities": "",
+      "Z75.3 Unavailability or Inaccessibility of Health Care Facilities": "",
+      "Z75.4 Unavailability or Inaccessibility of Other Helping Agencies": ""
+    },
+    "Circumstances of Personal History": {
+      "Z91.49 Personal History of Psychological Trauma": "",
+      "Z91.82 Personal History of Military Deployment": ""
+    },
+    "Other Health Service Encounters for Counseling and Medical Advice": {
+      "Z31.5 Genetic Counseling": "",
+      "Sex Counseling": "",
+      "Z71.3 Dietary Counseling": "",
+      "Z71.9  Other Counseling or Consultation": ""
+    },
+    "Additional Conditions or Problems That May Be a Focus of Clinical Attention": {
+      "Z91.83 Wandering Associated With a Mental Disorder": "",
+      "Z63.4 Uncomplicated Bereavement": "",
+      "Z72.811 Adult Antisocial Behavior": "",
+      "Overweight or Obesity": ""
+    }
+  },
+  "ALCOHOL-INDUCED MENTAL DISORDERS": {
+    "Alcohol Intoxication": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Alcohol Withdrawal": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Alcohol Withdrawal": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Alcohol-Induced Mental Disorders": {
+      "Description": "",
+      "Diagnostic and Associated Features": "",
+      "Development and Course": ""
+    },
+    "Unspecified Alcohol-Related Disorder": {
+      "Description": ""
+    },
+    "Caffeine Intoxication": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Functional Consequences of Caffeine Intoxication": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Caffeine Withdrawal": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Functional Consequences of Caffeine Withdrawal": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Unspecified Caffeine-Related Disorder": {
+      "Description": ""
+    },
+    "Cannabis Use Disorder": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Cannabis Use Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Cannabis Intoxication": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Prevalence": "",
+      "Functional Consequences of Cannabis Intoxication": "",
+      "Differential Diagnosis": ""
+    },
+    "Cannabis-induced mental disorders.": {
+      "Description": "",
+      "Comorbidity": ""
+    },
+    "Cannabis Withdrawal": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Functional Consequences of Cannabis Withdrawal": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Cannabis-Induced Mental Disorders": {
+      "Description": ""
+    },
+    "Unspecified Cannabis-Related Disorder": {
+      "Description": ""
+    },
+    "Phencyclidine Use Disorder": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Risk and Prognostic Factors": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Phencyclidine Use Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Other Hallucinogen Use Disorder": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Other Hallucinogen Use Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Phencyclidine Intoxication": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Prevalence": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Phencyclidine Intoxication": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Other Hallucinogen Intoxication": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Prevalence": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Other Hallucinogen Intoxication": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Hallucinogen Persisting Perception Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Functional Consequences of Hallucinogen Persisting Perception Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Hallucinogen-Induced Mental Disorders": {
+      "Description": "",
+      "Unspecified Phencyclidine-Related Disorder": "",
+      "Unspecified Hallucinogen-Related Disorder": ""
+    }
+  },
+  "OBSESSIVE-COMPULSIVE AND RELATED DISORDERS": {
+    "Description": "",
+    "Obsessive-Compulsive Disorder": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Obsessive-Compulsive Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Body Dysmorphic Disorder": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Body Dysmorphic Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Hoarding Disorder": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Functional Consequences of Hoarding Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Trichotillomania (Hair-Pulling Disorder)": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Trichotillomania (Hair-Pulling Disorder)": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Excoriation (Skin-Picking) Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Excoriation (Skin-Picking) Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Substance/Medication-Induced Obsessive-Compulsive and Related Disorder": {
+      "Diagnostic Criteria": "",
+      "Recording Procedures": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Differential Diagnosis": ""
+    },
+    "Obsessive-Compulsive and Related Disorder Due to Another Medical Condition": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Development and Course": "",
+      "Diagnostic Markers": "",
+      "Differential Diagnosis": ""
+    },
+    "Other Specified Obsessive-Compulsive and Related Disorder": {
+      "Description": ""
+    },
+    "Unspecified Obsessive-Compulsive and Related Disorder": {
+      "Description": ""
+    }
+  },
+  "SEXUAL DYSFUNCTIONS": {
+    "Description": "",
+    "Delayed Ejaculation": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Functional Consequences of Delayed Ejaculation": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Erectile Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Erectile Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Female Orgasmic Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Female Orgasmic Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Female Sexual Interest/Arousal Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Female Sexual": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Genito-Pelvic Pain/Penetration Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Genito-Pelvic": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Male Hypoactive Sexual Desire Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Differential Diagnosis": ""
+    },
+    "Other sexual dysfunctions": {
+      "Description": "",
+      "Comorbidity": ""
+    },
+    "Premature (Early) Ejaculation": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Premature (Early) Ejaculation": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Substance/Medication-Induced Sexual Dysfunction": {
+      "Diagnostic Criteria": "",
+      "Recording Procedures": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Functional Consequences of Substance/Medication-Induced Sexual Dysfunction": "",
+      "Differential Diagnosis": ""
+    },
+    "Other Specified Sexual Dysfunction": {
+      "Description": ""
+    },
+    "Unspecified Sexual Dysfunction": {
+      "Description": ""
+    }
+  },
+  "NEURODEVELOPMENTAL DISORDERS": {
+    "Description": "",
+    "Intellectual Developmental Disorder (Intellectual Disability)": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Global Developmental Delay": {
+      "Description": ""
+    },
+    "Unspecified Intellectual Developmental Disorder (Intellectual Disability)": {
+      "Description": ""
+    },
+    "Communication Disorders": {
+      "Description": ""
+    },
+    "Language Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Speech Sound Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Development and Course": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Childhood-Onset Fluency Disorder (Stuttering)": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Functional Consequences of Childhood-Onset Fluency": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Autism Spectrum Disorder": {
+      "Diagnostic Criteria": "",
+      "Recording Procedures": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Autism Spectrum Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Attention-Deficit/Hyperactivity Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Attention-Deficit/Hyperactivity Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Other Specified Attention-Deficit/Hyperactivity Disorder": {
+      "Description": ""
+    },
+    "Specific Learning Disorder": {
+      "Diagnostic Criteria": "",
+      "Recording Procedures": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Specific Learning Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    }
+  },
+  "ANXIETY DISORDERS": {
+    "Description": "",
+    "Separation Anxiety Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Separation Anxiety Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Selective Mutism": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Functional Consequences of Selective Mutism": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Specific Phobia": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Specific Phobia": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": "",
+      "Functional Consequences of Social Anxiety Disorder": ""
+    },
+    "Panic Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Panic Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": "",
+      "Panic Attack Specifier": "",
+      "Features": "",
+      "Functional Consequences of Panic Attacks": ""
+    },
+    "Agoraphobia": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Agoraphobia": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Generalized Anxiety Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Generalized Anxiety Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Substance/Medication-Induced Anxiety Disorder": {
+      "Diagnostic Criteria": "",
+      "Recording Procedures": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Diagnostic Markers": "",
+      "Differential Diagnosis": ""
+    },
+    "Anxiety Disorder Due to Another Medical Condition": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Diagnostic Markers": "",
+      "Differential Diagnosis": ""
+    },
+    "Other Specified Anxiety Disorder": {
+      "Description": ""
+    },
+    "Unspecified Anxiety Disorder": {
+      "Description": ""
+    }
+  },
+  "TRAUMA- AND STRESSOR-RELATED DISORDERS": {
+    "Description": "",
+    "Reactive Attachment Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Functional Consequences of Reactive Attachment Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Disinhibited Social Engagement Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Functional Consequences of Disinhibited Social Engagement Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Posttraumatic Stress Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Posttraumatic Stress Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Acute Stress Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Functional Consequences of Acute Stress Disorder": "",
+      "Differential Diagnosis": ""
+    },
+    "Adjustment Disorders": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Adjustment Disorders": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Prolonged Grief Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Prolonged Grief Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Other Specified Trauma- and Stressor-Related Disorder": {
+      "Description": ""
+    },
+    "Unspecified Trauma- and Stressor-Related Disorder": {
+      "Description": ""
+    }
+  },
+  "INHALANT-RELATED DISORDERS": {
+    "Inhalant Use Disorder": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Inhalant Use Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Inhalant Intoxication": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Functional Consequences of Inhalant Intoxication": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    }
+  },
+  "NEUROCOGNITIVE DISORDERS": {
+    "Description": "",
+    "Neurocognitive Domains": {
+      "Description": ""
+    },
+    "Delirium": {
+      "Diagnostic Criteria": "",
+      "Recording Procedures": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Delirium": "",
+      "Differential Diagnosis": ""
+    },
+    "Other Specified Delirium": {
+      "Description": ""
+    },
+    "Unspecified Delirium": {
+      "Description": ""
+    },
+    "Major Neurocognitive Disorder": {
+      "Diagnostic Criteria": "",
+      "Coding and Recording Procedures": ""
+    },
+    "Mild Neurocognitive Disorder": {
+      "Diagnostic Criteria": "",
+      "Recording Procedures": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Substance/Medication-Induced Major or Mild Neurocognitive Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Major or Mild Neurocognitive Disorder Due to Alzheimer\u2019s Disease": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Major or Mild Neurocognitive Disorder Due to Alzheimer\u2019s Disease": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Major or Mild Frontotemporal Neurocognitive Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Major or Mild Frontotemporal Neurocognitive Disorder": "",
+      "Differential Diagnosis": ""
+    },
+    "Major or Mild Neurocognitive Disorder With Lewy Bodies": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Major or Mild Neurocognitive Disorder With Lewy Bodies": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Major or Mild Vascular Neurocognitive Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Diagnostic Markers": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": "",
+      "Specifiers": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Major or Mild Neurocognitive Disorder Due to Traumatic Brain Injury": ""
+    },
+    "Major or Mild Neurocognitive Disorder Due to HIV Infection": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Major or Mild": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Major or Mild Neurocognitive Disorder Due to Prion Disease": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Diagnostic Markers": "",
+      "Differential Diagnosis": ""
+    },
+    "Major or Mild Neurocognitive Disorder Due to Parkinson\u2019s Disease": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Major or Mild Neurocognitive Disorder Due to Huntington\u2019s Disease": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Diagnostic Markers": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Major or Mild Neurocognitive Disorder Due to Huntington\u2019s Disease": "",
+      "Differential Diagnosis": ""
+    },
+    "Major or Mild Neurocognitive Disorder Due to Another Medical Condition": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Development and Course": "",
+      "Diagnostic Markers": "",
+      "Differential Diagnosis": ""
+    },
+    "Major or Mild Neurocognitive Disorder Due to Multiple Etiologies": {
+      "Diagnostic Criteria": ""
+    },
+    "Unspecified Neurocognitive Disorder": {
+      "Description": ""
+    }
+  },
+  "OTHER MENTAL DISORDERS AND ADDITIONAL CODES": {
+    "Description": "",
+    "Other Specified Mental Disorder Due to Another Medical Condition": {
+      "Description": ""
+    },
+    "Unspecified Mental Disorder Due to Another Medical Condition": {
+      "Description": ""
+    },
+    "Other Specified Mental Disorder": {
+      "Description": ""
+    },
+    "Unspecified Mental Disorder": {
+      "Description": ""
+    },
+    "Additional Codes": {
+      "Z03.89 No Diagnosis or Condition": ""
+    }
+  },
+  "PERSONALITY DISORDERS": {
+    "Description": "",
+    "Paranoid Personality Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Schizoid Personality Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Schizotypal Personality Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Antisocial Personality Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Borderline Personality Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Histrionic Personality Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Narcissistic Personality Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Avoidant Personality Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Dependent Personality Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Obsessive-Compulsive Personality Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Personality Change Due to Another Medical Condition": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Differential Diagnosis": ""
+    },
+    "Other Specified Personality Disorder": {
+      "Description": ""
+    },
+    "Unspecified Personality Disorder": {
+      "Description": ""
+    }
+  },
+  "ELIMINATION DISORDERS": {
+    "Description": "",
+    "Diagnostic Criteria": {
+      "Description": ""
+    },
+    "Diagnostic Features": {
+      "Description": ""
+    },
+    "Associated Features": {
+      "Description": ""
+    },
+    "Prevalence": {
+      "Description": ""
+    },
+    "Development and Course": {
+      "Description": ""
+    },
+    "Risk and Prognostic Factors": {
+      "Description": ""
+    },
+    "Culture-Related Diagnostic Issues": {
+      "Description": ""
+    },
+    "Sex- and Gender-Related Diagnostic Issues": {
+      "Description": ""
+    },
+    "Functional Consequences of Enuresis": {
+      "Description": ""
+    },
+    "Differential Diagnosis": {
+      "Description": ""
+    },
+    "Comorbidity": {
+      "Description": ""
+    },
+    "Encopresis": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Encopresis": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    }
+  },
+  "OTHER NEURODEVELOPMENTAL DISORDERS": {
+    "Other Specified Neurodevelopmental Disorder": {
+      "Description": ""
+    }
+  },
+  "Tobacco-Related Disorders": {
+    "Tobacco Use Disorder": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Tobacco Use Disorder": "",
+      "Comorbidity": ""
+    },
+    "Tobacco Withdrawal": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Tobacco Withdrawal": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Unspecified Tobacco-Related Disorder": {
+      "Description": ""
+    },
+    "Other (or Unknown) Substance Use Disorder": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Other (or Unknown) Substance Intoxication": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Functional Consequences of Other (or Unknown) Substance Intoxication": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": "",
+      "Functional Consequences of Other (or Unknown) Substance": ""
+    },
+    "NON-SUBSTANCE-RELATED DISORDERS": {},
+    "Gambling Disorder": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Gambling Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    }
+  },
+  "PARAPHILIC DISORDERS": {
+    "Description": "",
+    "Voyeuristic Disorder": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Exhibitionistic Disorder": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Frotteuristic Disorder": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Sexual Masochism Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Sexual Masochism Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Sexual Sadism Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Comorbidity": ""
+    },
+    "Pedophilic Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Fetishistic Disorder": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Development and Course": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Functional Consequences of Fetishistic Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": "",
+      "Prevalence": "",
+      "Functional Consequences of Transvestic Disorder": ""
+    },
+    "Other Specified Paraphilic Disorder": {
+      "Description": ""
+    },
+    "Unspecified Paraphilic Disorder": {
+      "Description": ""
+    }
+  },
+  "BIPOLAR AND RELATED DISORDERS": {
+    "Description": "",
+    "Bipolar I Disorder": {
+      "Diagnostic Criteria": "",
+      "Coding and Recording Procedures": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Bipolar I Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Bipolar II Disorder": {
+      "Diagnostic Criteria": "",
+      "Coding and Recording Procedures": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Bipolar II Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Cyclothymic Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Substance/Medication-Induced Bipolar and Related Disorder": {
+      "Diagnostic Criteria": "",
+      "Recording Procedures": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Diagnostic Markers": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Bipolar and Related Disorder Due to Another Medical Condition": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Development and Course": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Bipolar and Related Disorder Due to Another Medical Condition": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Other Specified Bipolar and Related Disorder": {
+      "Description": ""
+    },
+    "Unspecified Bipolar and Related Disorder": {
+      "Description": ""
+    },
+    "Unspecified Mood Disorder": {
+      "Description": ""
+    },
+    "Specifiers for Bipolar and Related Disorders": {
+      "Description": ""
+    }
+  },
+  "SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS": {
+    "Description": "",
+    "Hallucinations": {
+      "Description": ""
+    },
+    "Negative Symptoms": {
+      "Description": ""
+    },
+    "Clinician-Rated Assessment of Symptoms and Related Clinical Phenomena in Psychosis": {
+      "Description": ""
+    },
+    "Cultural Considerations in the Assessment of Psychotic Symptoms": {
+      "Description": ""
+    },
+    "Delusional Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Functional Consequences of Delusional Disorder": "",
+      "Differential Diagnosis": ""
+    },
+    "Substance/medication-induced psychotic disorder.": {
+      "Description": ""
+    },
+    "Brief Psychotic Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Differential Diagnosis": ""
+    },
+    "Schizophreniform Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Differential Diagnosis": ""
+    },
+    "Schizophrenia": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Schizophrenia": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Schizoaffective Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Schizoaffective Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Substance/Medication-Induced Psychotic Disorder": {
+      "Diagnostic Criteria": "",
+      "Recording Procedures": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Diagnostic Markers": "",
+      "Differential Diagnosis": ""
+    },
+    "Psychotic Disorder Due to Another Medical Condition": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Catatonia Associated With Another Mental Disorder (Catatonia Specifier)": {
+      "Description": "",
+      "Diagnostic Features": "",
+      "Culture-Related Diagnostic Issues": ""
+    },
+    "Catatonic Disorder Due to Another Medical Condition": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Differential Diagnosis": ""
+    },
+    "Other Specified Schizophrenia Spectrum and Other Psychotic Disorder": {
+      "Description": ""
+    },
+    "Unspecified Schizophrenia Spectrum and Other Psychotic Disorder": {
+      "Description": ""
+    }
+  },
+  "SLEEP-WAKE DISORDERS": {
+    "Description": "",
+    "Relationship to International Classification of Sleep Disorders": {
+      "Description": ""
+    },
+    "Hypersomnolence Disorder": {
+      "Diagnostic Criteria": "",
+      "Recording Procedures": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Hypersomnolence Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Narcolepsy": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Narcolepsy": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Obstructive Sleep Apnea Hypopnea": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Obstructive Sleep Apnea  Hypopnea": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Central Sleep Apnea": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Central Sleep Apnea": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Sleep-Related Hypoventilation": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Sleep-Related Hypoventilation": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Circadian Rhythm Sleep-Wake Disorders": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Delayed Sleep Phase Type": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Advanced Sleep Phase Type": {
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Advanced Sleep Phase Type": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": "",
+      "Prevalence of irregular sleep-wake type in the general population is unknown.": "",
+      "Functional Consequences of Non-24-Hour Sleep-Wake Type": ""
+    },
+    "Depressive disorders": {
+      "Differential Diagnosis": "",
+      "Comorbidity": "",
+      "Diagnostic Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Shift Work Type": ""
+    },
+    "NonRapid Eye Movement Sleep Arousal Disorders": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of NonRapid Eye Movement Sleep Arousal Disorders": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Nightmare Disorder": {
+      "Diagnostic Criteria": "",
+      "Recording Procedures": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Rapid Eye Movement Sleep Behavior Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Rapid Eye Movement Sleep Behavior Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Restless Legs Syndrome": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Restless Legs Syndrome": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Substance/Medication-Induced Sleep Disorder": {
+      "Diagnostic Criteria": "",
+      "Recording Procedures": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Substance/Medication-Induced Sleep Disorder": "",
+      "Differential Diagnosis": ""
+    },
+    "Other sleep disorders": {
+      "Sleep disorder associated with medical condition": "",
+      "Comorbidity": ""
+    },
+    "Other Specified Insomnia Disorder": {
+      "Description": ""
+    },
+    "Unspecified Insomnia Disorder": {
+      "Description": ""
+    },
+    "Other Specified Hypersomnolence Disorder": {
+      "Description": ""
+    },
+    "Unspecified Hypersomnolence Disorder": {
+      "Description": ""
+    }
+  },
+  "FEEDING AND EATING DISORDERS": {
+    "Description": "",
+    "Pica": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Functional Consequences of Pica": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Rumination Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Functional Consequences of Rumination Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Avoidant/Restrictive Food Intake Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Functional Consequences of Avoidant/Restrictive Food Intake Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Anorexia Nervosa": {
+      "Diagnostic Criteria": ""
+    },
+    "Subtypes": {
+      "Description": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Anorexia Nervosa": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Bulimia Nervosa": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Bulimia Nervosa": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Binge-Eating Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Binge-Eating Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Unspecified Feeding or Eating Disorder": {
+      "Description": ""
+    }
+  },
+  "DEPRESSIVE DISORDERS": {
+    "Description": "",
+    "Disruptive Mood Dysregulation Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Functional Consequences of Disruptive Mood Dysregulation Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Major Depressive Disorder": {
+      "Diagnostic Criteria": "",
+      "Coding and Recording Procedures": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Major Depressive Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Persistent Depressive Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Persistent Depressive Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Premenstrual Dysphoric Disorder": {
+      "Diagnostic Criteria": "",
+      "Recording Procedures": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Premenstrual Dysphoric Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Substance/Medication-Induced Depressive Disorder": {
+      "Diagnostic Criteria": "",
+      "Recording Procedures": "",
+      "Diagnostic Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Depressive Disorder Due to Another Medical Condition": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Diagnostic Markers": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Unspecified Depressive Disorder": {
+      "Description": ""
+    },
+    "Unspecified Mood Disorder": {
+      "Description": ""
+    }
+  },
+  "DISRUPTIVE, IMPULSE-CONTROL, AND CONDUCT DISORDERS": {
+    "Description": "",
+    "Oppositional Defiant Disorder": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Functional Consequences of Oppositional Defiant Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Intermittent Explosive Disorder": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Intermittent Explosive Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Conduct Disorder": {
+      "Diagnostic Criteria": "",
+      "Specifiers": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Culture-Related Diagnostic Issues": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Conduct Disorder": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Pyromania": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Sex- and Gender-Related Diagnostic Issues": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Kleptomania": {
+      "Diagnostic Criteria": "",
+      "Diagnostic Features": "",
+      "Associated Features": "",
+      "Prevalence": "",
+      "Development and Course": "",
+      "Risk and Prognostic Factors": "",
+      "Association With Suicidal Thoughts or Behavior": "",
+      "Functional Consequences of Kleptomania": "",
+      "Differential Diagnosis": "",
+      "Comorbidity": ""
+    },
+    "Unspecified Disruptive, Impulse-Control, and Conduct Disorder": {
+      "Description": ""
+    },
+    "Substance-Related and Addictive Disorders": {
+      "Description": "",
+      "Diagnostic Features": "",
+      "Recording Procedures": ""
+    },
+    "Substance-Induced Disorders": {
+      "Description": "",
+      "Associated Laboratory Findings": "",
+      "Development and Course": "",
+      "Recording Procedures for Substance Intoxication and Substance Withdrawal": "",
+      "Diagnostic and Associated Features": "",
+      "Functional Consequences of Substance/Medication-Induced Mental Disorders": ""
+    }
+  }
+}

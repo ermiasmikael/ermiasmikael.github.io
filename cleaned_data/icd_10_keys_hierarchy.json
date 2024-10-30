@@ -1,0 +1,3207 @@
+{
+  "NEURODEVELOPMENTAL DISORDERS": {
+    "Intellectual Developmental Disorders": {
+      "___.__ Intellectual Developmental Disorder (Intellectual Disability)": {
+        "Mild": {
+          "icd-10-code": ""
+        },
+        "Moderate": {
+          "icd-10-code": ""
+        },
+        "Severe": {
+          "icd-10-code": ""
+        },
+        "Profound": {
+          "icd-10-code": ""
+        }
+      },
+      "Global Developmental Delay": {
+        "icd-10-code": ""
+      },
+      "Unspecified Intellectual Developmental Disorder (Intellectual Disability)": {
+        "icd-10-code": ""
+      }
+    },
+    "Communication Disorders": {
+      "Language Disorder": {
+        "icd-10-code": ""
+      },
+      "Speech Sound Disorder": {
+        "icd-10-code": ""
+      },
+      "Childhood-Onset Fluency Disorder (Stuttering)": {
+        "icd-10-code": ""
+      },
+      "Social (Pragmatic) Communication Disorder": {
+        "icd-10-code": ""
+      },
+      "Unspecified Communication Disorder": {
+        "icd-10-code": ""
+      }
+    },
+    "Autism Spectrum Disorder": {
+      "Autism Spectrum Disorder": {
+        "icd-10-code": ""
+      }
+    },
+    "Attention-Deficit/Hyperactivity Disorder": {
+      "___.__ Attention-Deficit/Hyperactivity Disorder": {
+        "Combined presentation": {
+          "icd-10-code": ""
+        },
+        "Predominantly inattentive presentation": {
+          "icd-10-code": ""
+        },
+        "Predominantly hyperactive/impulsive presentation": {
+          "icd-10-code": ""
+        },
+        "Other Specified Attention-Deficit/Hyperactivity Disorder": {
+          "icd-10-code": ""
+        },
+        "Unspecified Attention-Deficit/Hyperactivity Disorder": {
+          "icd-10-code": ""
+        }
+      }
+    },
+    "Specific Learning Disorder": {
+      "___.__ Specific Learning Disorder": {
+        "With impairment in reading": {
+          "icd-10-code": ""
+        },
+        "With impairment in written expression": {
+          "icd-10-code": ""
+        },
+        "With impairment in mathematics": {
+          "icd-10-code": ""
+        },
+        "Bipolar type": {
+          "icd-10-code": ""
+        },
+        "Depressive type": {
+          "icd-10-code": ""
+        }
+      }
+    },
+    "Motor Disorders": {
+      "Developmental Coordination Disorder": {
+        "icd-10-code": ""
+      },
+      "Stereotypic Movement Disorder": {
+        "icd-10-code": ""
+      }
+    },
+    "Tic Disorders": {
+      "Tourette's Disorder": {
+        "icd-10-code": ""
+      },
+      "Persistent (Chronic) Motor or Vocal Tic Disorder": {
+        "icd-10-code": ""
+      },
+      "Provisional Tic Disorder": {
+        "icd-10-code": ""
+      },
+      "Other Specified Tic Disorder": {
+        "icd-10-code": ""
+      },
+      "Unspecified Tic Disorder": {
+        "icd-10-code": ""
+      }
+    },
+    "Other Neurodevelopmental Disorders": {
+      "Other Specified Neurodevelopmental Disorder": {
+        "icd-10-code": ""
+      },
+      "Unspecified Neurodevelopmental Disorder": {
+        "icd-10-code": ""
+      }
+    }
+  },
+  "SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS": {
+    "Schizotypal (Personality) Disorder": {
+      "icd-10-code": ""
+    },
+    "Delusional Disorder": {
+      "icd-10-code": ""
+    },
+    "Brief Psychotic Disorder": {
+      "icd-10-code": ""
+    },
+    "Schizophreniform Disorder": {
+      "icd-10-code": ""
+    },
+    "Schizophrenia": {
+      "icd-10-code": ""
+    },
+    "___.__ Schizoaffective Disorder": {},
+    "___.__ Substance/Medication-Induced Psychotic Disorder": {},
+    "___.__ Psychotic Disorder Due to Another Medical Condition": {
+      "With delusions": {
+        "icd-10-code": ""
+      },
+      "With hallucinations": {
+        "icd-10-code": ""
+      }
+    },
+    "Catatonia Associated With Another Mental Disorder (Catatonia Specifier)": {
+      "icd-10-code": ""
+    },
+    "Catatonic Disorder Due to Another Medical Condition": {
+      "icd-10-code": ""
+    },
+    "Unspecified Catatonia": {
+      "icd-10-code": ""
+    },
+    "Other Specified Schizophrenia Spectrum and Other Psychotic Disorder": {
+      "icd-10-code": ""
+    },
+    "Unspecified Schizophrenia Spectrum and Other Psychotic Disorder": {
+      "icd-10-code": ""
+    }
+  },
+  "BIPOLAR AND RELATED DISORDERS": {
+    "___.__ Bipolar I Disorder": {
+      "___.__ Current or most recent episode manic": {
+        "Mild": {
+          "icd-10-code": ""
+        },
+        "Moderate": {
+          "icd-10-code": ""
+        },
+        "Severe": {
+          "icd-10-code": ""
+        },
+        "With psychotic features": {
+          "icd-10-code": ""
+        },
+        "In partial remission": {
+          "icd-10-code": ""
+        },
+        "In full remission": {
+          "icd-10-code": ""
+        },
+        "Unspecified": {
+          "icd-10-code": ""
+        },
+        "Current or most recent episode hypomanic": {
+          "icd-10-code": ""
+        }
+      },
+      "___.__ Current or most recent episode depressed": {
+        "Mild": {
+          "icd-10-code": ""
+        },
+        "Moderate": {
+          "icd-10-code": ""
+        },
+        "Severe": {
+          "icd-10-code": ""
+        },
+        "With psychotic features": {
+          "icd-10-code": ""
+        },
+        "In partial remission": {
+          "icd-10-code": ""
+        },
+        "In full remission": {
+          "icd-10-code": ""
+        },
+        "Unspecified": {
+          "icd-10-code": ""
+        },
+        "Current or most recent episode unspecified": {
+          "icd-10-code": ""
+        }
+      }
+    },
+    "Bipolar II Disorder": {
+      "icd-10-code": ""
+    },
+    "Cyclothymic Disorder": {
+      "icd-10-code": ""
+    },
+    "___.__ Substance/Medication-Induced Bipolar and Related Disorder": {},
+    "___.__ Bipolar and Related Disorder Due to Another Medical Condition": {
+      "With manic features": {
+        "icd-10-code": ""
+      },
+      "With manic- or hypomanic-like episode": {
+        "icd-10-code": ""
+      },
+      "With mixed features": {
+        "icd-10-code": ""
+      }
+    },
+    "Other Specified Bipolar and Related Disorder": {
+      "icd-10-code": ""
+    },
+    "Unspecified Bipolar and Related Disorder": {
+      "icd-10-code": ""
+    },
+    "Unspecified Mood Disorder": {
+      "icd-10-code": ""
+    }
+  },
+  "DEPRESSIVE DISORDERS": {
+    "Disruptive Mood Dysregulation Disorder": {
+      "icd-10-code": ""
+    },
+    "___.__ Major Depressive Disorder": {
+      "___.__ Single episode": {
+        "Mild": {
+          "icd-10-code": ""
+        },
+        "Moderate": {
+          "icd-10-code": ""
+        },
+        "Severe": {
+          "icd-10-code": ""
+        },
+        "With psychotic features": {
+          "icd-10-code": ""
+        },
+        "In partial remission": {
+          "icd-10-code": ""
+        },
+        "In full remission": {
+          "icd-10-code": ""
+        },
+        "Unspecified": {
+          "icd-10-code": ""
+        }
+      },
+      "___.__ Recurrent episode": {
+        "Mild": {
+          "icd-10-code": ""
+        },
+        "Moderate": {
+          "icd-10-code": ""
+        },
+        "Severe": {
+          "icd-10-code": ""
+        },
+        "With psychotic features": {
+          "icd-10-code": ""
+        },
+        "In partial remission": {
+          "icd-10-code": ""
+        },
+        "In full remission": {
+          "icd-10-code": ""
+        },
+        "Unspecified": {
+          "icd-10-code": ""
+        }
+      },
+      "Persistent Depressive Disorder": {
+        "icd-10-code": ""
+      },
+      "Premenstrual Dysphoric Disorder": {
+        "icd-10-code": ""
+      },
+      "___.__ Substance/Medication-Induced Depressive Disorder": {},
+      "___.__ Depressive Disorder Due to Another Medical Condition": {
+        "With depressive features": {
+          "icd-10-code": ""
+        },
+        "With major depressive like episode": {
+          "icd-10-code": ""
+        },
+        "With mixed features": {
+          "icd-10-code": ""
+        }
+      },
+      "Other Specified Depressive Disorder": {
+        "icd-10-code": ""
+      },
+      ".A Unspecified Depressive Disorder": {
+        "icd-10-code": ""
+      },
+      "Unspecified Mood Disorder": {
+        "icd-10-code": ""
+      }
+    }
+  },
+  "ANXIETY DISORDERS": {
+    "Separation Anxiety Disorder": {
+      "icd-10-code": ""
+    },
+    "Selective Mutism": {
+      "icd-10-code": ""
+    },
+    "___.__ Specific Phobia": {
+      "8 Animal": {
+        "icd-10-code": ""
+      },
+      "8 Natural environment": {
+        "icd-10-code": ""
+      },
+      "___.__ Blood-injection-injury": {},
+      "0 Fear of blood": {
+        "icd-10-code": ""
+      },
+      "1 Fear of injections and transfusions": {
+        "icd-10-code": ""
+      },
+      "2 Fear of other medical care": {
+        "icd-10-code": ""
+      },
+      "3 Fear of injury": {
+        "icd-10-code": ""
+      },
+      "8 Situational": {
+        "icd-10-code": ""
+      },
+      "8 Other": {
+        "icd-10-code": ""
+      }
+    },
+    "Social Anxiety Disorder": {
+      "icd-10-code": ""
+    },
+    "Panic Disorder": {
+      "icd-10-code": ""
+    },
+    "___.__ Panic Attack Specifier": {},
+    "Agoraphobia": {
+      "icd-10-code": ""
+    },
+    "Generalized Anxiety Disorder": {
+      "icd-10-code": ""
+    },
+    "___.__ Substance/Medication-Induced Anxiety Disorder": {},
+    "Anxiety Disorder Due to Another Medical Condition": {
+      "icd-10-code": ""
+    },
+    "Other Specified Anxiety Disorder": {
+      "icd-10-code": ""
+    },
+    "Unspecified Anxiety Disorder": {
+      "icd-10-code": ""
+    }
+  },
+  "OBSESSIVE-COMPULSIVE AND RELATED DISORDERS": {
+    "Obsessive-Compulsive Disorder": {
+      "icd-10-code": ""
+    },
+    "Body Dysmorphic Disorder": {
+      "icd-10-code": ""
+    },
+    "Hoarding Disorder": {
+      "icd-10-code": ""
+    },
+    "Trichotillomania (Hair-Pulling Disorder)": {
+      "icd-10-code": ""
+    },
+    "Excoriation (Skin-Picking) Disorder": {
+      "icd-10-code": ""
+    },
+    "___.__ Substance/Medication-Induced Obsessive-Compulsive and Related Disorder": {
+      "___.__ Posttraumatic Stress Disorder in Individuals Older Than 6 Years": {},
+      "___.__ Posttraumatic Stress Disorder in Children 6 Years and Younger": {}
+    },
+    "Obsessive-Compulsive and Related Disorder Due to Another Medical Condition": {
+      "icd-10-code": ""
+    },
+    "Other Specified Obsessive-Compulsive and Related Disorder": {
+      "icd-10-code": ""
+    },
+    "Unspecified Obsessive-Compulsive and Related Disorder": {
+      "icd-10-code": ""
+    }
+  },
+  "TRAUMA- AND STRESSOR-RELATED DISORDERS": {
+    "Reactive Attachment Disorder": {
+      "icd-10-code": ""
+    },
+    "Disinhibited Social Engagement Disorder": {
+      "icd-10-code": ""
+    },
+    "Posttraumatic Stress Disorder": {
+      "icd-10-code": ""
+    },
+    "Acute Stress Disorder": {
+      "icd-10-code": ""
+    },
+    "___.__ Adjustment Disorders": {
+      "With depressed mood": {
+        "icd-10-code": ""
+      },
+      "With anxiety": {
+        "icd-10-code": ""
+      },
+      "With mixed anxiety and depressed mood": {
+        "icd-10-code": ""
+      },
+      "With disturbance of conduct": {
+        "icd-10-code": ""
+      },
+      "With mixed disturbance of emotions and conduct": {
+        "icd-10-code": ""
+      },
+      "Unspecified": {
+        "icd-10-code": ""
+      },
+      "With dissociative fugue": {
+        "icd-10-code": ""
+      }
+    },
+    "Prolonged Grief Disorder": {
+      "icd-10-code": ""
+    },
+    "Other Specified Trauma- and Stressor-Related Disorder": {
+      "icd-10-code": ""
+    },
+    "Unspecified Trauma- and Stressor-Related Disorder": {
+      "icd-10-code": ""
+    }
+  },
+  "DISSOCIATIVE DISORDERS": {
+    "Dissociative Identity Disorder": {
+      "icd-10-code": ""
+    },
+    "Dissociative Amnesia": {
+      "icd-10-code": ""
+    },
+    "Depersonalization/Derealization Disorder": {
+      "icd-10-code": ""
+    },
+    "Other Specified Dissociative Disorder": {
+      "icd-10-code": ""
+    },
+    "Unspecified Dissociative Disorder": {
+      "icd-10-code": ""
+    }
+  },
+  "SOMATIC SYMPTOM AND RELATED DISORDERS": {
+    "Somatic Symptom Disorder": {
+      "icd-10-code": ""
+    },
+    "Illness Anxiety Disorder": {
+      "icd-10-code": ""
+    },
+    "___.__ Functional Neurological Symptom Disorder (Conversion Disorder)": {
+      "With weakness or paralysis": {
+        "icd-10-code": ""
+      },
+      "With abnormal movement": {
+        "icd-10-code": ""
+      },
+      "With swallowing symptoms": {
+        "icd-10-code": ""
+      },
+      "With speech symptom": {
+        "icd-10-code": ""
+      },
+      "With attacks or seizures": {
+        "icd-10-code": ""
+      },
+      "With anesthesia or sensory loss": {
+        "icd-10-code": ""
+      },
+      "With special sensory symptom": {
+        "icd-10-code": ""
+      },
+      "With mixed symptoms": {
+        "icd-10-code": ""
+      }
+    },
+    "Psychological Factors Affecting Other Medical Conditions": {
+      "icd-10-code": ""
+    },
+    "___.__ Factitious Disorder": {
+      "Factitious Disorder Imposed on Self": {
+        "icd-10-code": ""
+      },
+      ".A Factitious Disorder Imposed on Another": {
+        "icd-10-code": ""
+      }
+    },
+    "Other Specified Somatic Symptom and Related Disorder": {
+      "icd-10-code": ""
+    },
+    "Unspecified Somatic Symptom and Related Disorder": {
+      "icd-10-code": ""
+    }
+  },
+  "FEEDING AND EATING DISORDERS": {
+    "___.__ Picaa": {
+      "In children": {
+        "icd-10-code": ""
+      },
+      "In adults": {
+        "icd-10-code": ""
+      }
+    },
+    "Rumination Disorder": {
+      "icd-10-code": ""
+    },
+    "Avoidant/Restrictive Food Intake Disorder": {
+      "icd-10-code": ""
+    },
+    "___.__ Anorexia Nervosa": {
+      "Restricting type": {
+        "icd-10-code": ""
+      },
+      "Binge-eating/purging type": {
+        "icd-10-code": ""
+      }
+    },
+    "Bulimia Nervosa": {
+      "icd-10-code": ""
+    },
+    "Binge-Eating Disorder": {
+      "icd-10-code": ""
+    },
+    "Other Specified Feeding or Eating Disorder": {
+      "icd-10-code": ""
+    },
+    "Unspecified Feeding or Eating Disorder": {
+      "icd-10-code": ""
+    }
+  },
+  "ELIMINATION DISORDERS": {
+    "Enuresis": {
+      "icd-10-code": ""
+    },
+    "Encopresis": {
+      "icd-10-code": ""
+    },
+    "___.__ Other Specified Elimination Disorder": {
+      "8 With urinary symptoms": {
+        "icd-10-code": ""
+      },
+      "With fecal symptoms": {
+        "icd-10-code": ""
+      }
+    },
+    "___.__ Unspecified Elimination Disorder": {
+      "With urinary symptoms": {
+        "icd-10-code": ""
+      },
+      "With fecal symptoms": {
+        "icd-10-code": ""
+      }
+    }
+  },
+  "SLEEP-WAKE DISORDERS": {
+    "Insomnia Disorder": {
+      "icd-10-code": ""
+    },
+    "Hypersomnolence Disorder": {
+      "icd-10-code": ""
+    },
+    "___.__ Narcolepsy": {
+      "1 Narcolepsy with cataplexy or hypocretin deficiency (type 1)": {
+        "icd-10-code": ""
+      },
+      "9 Narcolepsy without cataplexy and either without hypocretin deficiency or hypocretin unmeasured (type 2)": {
+        "icd-10-code": ""
+      },
+      "1 Narcolepsy with cataplexy or hypocretin deficiency due to a medical condition": {
+        "icd-10-code": ""
+      },
+      "9 Narcolepsy without cataplexy and without hypocretin deficiency due to a medical condition": {
+        "icd-10-code": ""
+      }
+    },
+    "Breathing-Related Sleep Disorders": {
+      "Obstructive Sleep Apnea Hypopneac": {
+        "icd-10-code": ""
+      },
+      "___.__ Central Sleep Apnea": {
+        "Idiopathic central sleep apnea": {
+          "icd-10-code": ""
+        },
+        "Cheyne-Stokes breathing": {
+          "icd-10-code": ""
+        },
+        "Central sleep apnea comorbid with opioid use": {
+          "icd-10-code": ""
+        }
+      },
+      "___.__ Sleep-Related Hypoventilation": {
+        "Idiopathic hypoventilation": {
+          "icd-10-code": ""
+        },
+        "Congenital central alveolar hypoventilation": {
+          "icd-10-code": ""
+        },
+        "Comorbid sleep-related hypoventilation": {
+          "icd-10-code": ""
+        }
+      },
+      "___.__ Circadian Rhythm Sleep-Wake Disorders": {
+        "Delayed sleep phase type": {
+          "icd-10-code": ""
+        },
+        "Advanced sleep phase type": {
+          "icd-10-code": ""
+        },
+        "Irregular sleep-wake type": {
+          "icd-10-code": ""
+        },
+        "Non-24-hour sleep-wake type": {
+          "icd-10-code": ""
+        },
+        "Shift work type": {
+          "icd-10-code": ""
+        },
+        "Unspecified type": {
+          "icd-10-code": ""
+        }
+      }
+    },
+    "Parasomnias": {
+      "__.__ Non-Rapid Eye Movement Sleep Arousal Disorders": {
+        "Sleepwalking type": {
+          "icd-10-code": ""
+        },
+        "Sleep terror type": {
+          "icd-10-code": ""
+        }
+      },
+      "Nightmare Disorder": {
+        "icd-10-code": ""
+      },
+      "Rapid Eye Movement Sleep Behavior Disorder": {
+        "icd-10-code": ""
+      },
+      "Restless Legs Syndrome": {
+        "icd-10-code": ""
+      },
+      "___.__ Substance/Medication-Induced Sleep Disorder": {},
+      "Other Specified Insomnia Disorder": {
+        "icd-10-code": ""
+      },
+      "Unspecified Insomnia Disorder": {
+        "icd-10-code": ""
+      },
+      "Other Specified Hypersomnolence Disorder": {
+        "icd-10-code": ""
+      },
+      "Unspecified Hypersomnolence Disorder": {
+        "icd-10-code": ""
+      },
+      "Other Specified Sleep-Wake Disorder": {
+        "icd-10-code": ""
+      },
+      "Unspecified Sleep-Wake Disorder": {
+        "icd-10-code": ""
+      }
+    }
+  },
+  "SEXUAL DYSFUNCTIONS": {
+    "Delayed Ejaculation": {
+      "icd-10-code": ""
+    },
+    "Erectile Disorder": {
+      "icd-10-code": ""
+    },
+    "Female Orgasmic Disorder": {
+      "icd-10-code": ""
+    },
+    "Female Sexual Interest/Arousal Disorder": {
+      "icd-10-code": ""
+    },
+    "Genito-Pelvic Pain/Penetration Disorder": {
+      "icd-10-code": ""
+    },
+    "Male Hypoactive Sexual Desire Disorder": {
+      "icd-10-code": ""
+    },
+    "Premature (Early) Ejaculation": {
+      "icd-10-code": ""
+    },
+    "___.__Substance/Medication-Induced Sexual Dysfunction": {},
+    "Other Specified Sexual Dysfunction": {
+      "icd-10-code": ""
+    },
+    "Unspecified Sexual Dysfunction": {
+      "icd-10-code": ""
+    }
+  },
+  "GENDER DYSPHORIA": {
+    "__.__ Gender Dysphoria": {
+      "Gender Dysphoria in Children": {
+        "icd-10-code": ""
+      },
+      "Gender Dysphoria in Adolescents and Adults": {
+        "icd-10-code": ""
+      }
+    },
+    "Other Specified Gender Dysphoria": {
+      "icd-10-code": ""
+    },
+    "Unspecified Gender Dysphoria": {
+      "icd-10-code": ""
+    }
+  },
+  "DISRUPTIVE, IMPULSE-CONTROL, AND CONDUCT DISORDERS": {
+    "Oppositional Defiant Disorder": {
+      "icd-10-code": ""
+    },
+    "Intermittent Explosive Disorder": {
+      "icd-10-code": ""
+    },
+    "__.__ Conduct Disorder": {
+      "Childhood-onset type": {
+        "icd-10-code": ""
+      },
+      "Adolescent-onset type": {
+        "icd-10-code": ""
+      },
+      "Unspecified onset": {
+        "icd-10-code": ""
+      }
+    },
+    "Antisocial Personality Disorder": {
+      "icd-10-code": ""
+    },
+    "Pyromania": {
+      "icd-10-code": ""
+    },
+    "Kleptomania": {
+      "icd-10-code": ""
+    },
+    "Other Specified Disruptive, Impulse-Control, and Conduct Disorder": {
+      "icd-10-code": ""
+    },
+    "Unspecified Disruptive, Impulse-Control, and Conduct Disorder": {
+      "icd-10-code": ""
+    }
+  },
+  "SUBSTANCE-RELATED AND ADDICTIVE DISORDERS": {
+    "Substance-Related Disorders": {
+      "Alcohol-Related Disorders": {
+        "___.__ Alcohol Use Disorder": {
+          "Mild": {
+            "icd-10-code": ""
+          },
+          "Moderate": {
+            "icd-10-code": ""
+          },
+          "Severe": {
+            "icd-10-code": ""
+          }
+        },
+        "___.__ Alcohol Intoxication": {
+          "0 With mild use disorder": {
+            "icd-10-code": ""
+          },
+          "0 With moderate or severe use disorder": {
+            "icd-10-code": ""
+          },
+          "0 Without use disorder": {
+            "icd-10-code": ""
+          }
+        },
+        "___.__ Alcohol Withdrawal": {
+          "Without perceptual disturbances": {
+            "0 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "0 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "0 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "With perceptual disturbances": {
+            "2 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "2 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "2 Without use disorder": {
+              "icd-10-code": ""
+            }
+          }
+        },
+        "___.__ Alcohol-Induced Mental Disorders": {
+          "___.__ Alcohol-Induced Psychotic Disorder": {
+            "9 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "9 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "9 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Alcohol-Induced Bipolar and Related Disorder": {
+            "With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Alcohol-Induced Depressive Disorder": {
+            "With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Alcohol-Induced Anxiety Disorder": {
+            "0 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "0 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "0 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Alcohol-Induced Sleep Disorder": {
+            "2 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "2 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "2 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Alcohol-Induced Sexual Dysfunction": {
+            "1 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "1 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "1 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Alcohol Intoxication delirium": {
+            "1 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "1 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "1 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Alcohol Withdrawal delirium": {
+            "1 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "1 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "1 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Alcohol-Induced Major Neurocognitive Disorder": {},
+          "___.__ Amnestic-confabulatory type": {
+            "With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Nonamnestic-confabulatory type": {
+            "With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Alcohol-Induced Mild Neurocognitive Disorder": {
+            "8 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "8 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "8 Without use disorder": {
+              "icd-10-code": ""
+            },
+            "In early remission": {
+              "icd-10-code": ""
+            },
+            "In sustained remission": {
+              "icd-10-code": ""
+            }
+          },
+          "Unspecified Alcohol-Related Disorder": {
+            "icd-10-code": ""
+          }
+        }
+      },
+      "Caffeine-Related Disorders": {
+        "0 Caffeine Intoxication": {
+          "icd-10-code": ""
+        },
+        "Caffeine Withdrawal": {
+          "icd-10-code": ""
+        },
+        "___.__ Caffeine-Induced Mental Disorders": {
+          "0 Caffeine-Induced Anxiety Disorder": {
+            "icd-10-code": ""
+          },
+          "2 Caffeine-Induced Sleep Disorder": {
+            "icd-10-code": ""
+          }
+        },
+        "Unspecified Caffeine-Related Disorder": {
+          "icd-10-code": ""
+        }
+      },
+      "Cannabis-Related Disorders": {
+        "___.__ Cannabis Use Disorder": {
+          "Mild": {
+            "icd-10-code": ""
+          },
+          "Moderate": {
+            "icd-10-code": ""
+          },
+          "Severe": {
+            "icd-10-code": ""
+          }
+        },
+        "___.__ Cannabis Intoxication": {
+          "Without perceptual disturbances": {
+            "0 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "0 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "0 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "With perceptual disturbances": {
+            "2 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "2 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "2 Without use disorder": {
+              "icd-10-code": ""
+            }
+          }
+        },
+        "___.__ Cannabis Withdrawal": {
+          "With mild use disorder": {
+            "icd-10-code": ""
+          },
+          "With moderate or severe use disorder": {
+            "icd-10-code": ""
+          },
+          "Without use disorder": {
+            "icd-10-code": ""
+          }
+        },
+        "___.__ Cannabis-Induced Mental Disorders": {
+          "___.__ Cannabis-Induced Psychotic Disorder": {
+            "9 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "9 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "9 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Cannabis-Induced Anxiety Disorder": {
+            "0 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "0 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "0 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Cannabis-Induced Sleep Disorder": {
+            "8 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "8 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "8 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Cannabis Intoxication delirium": {
+            "1 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "1 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "1 Without use disorder": {
+              "icd-10-code": ""
+            },
+            "In early remission": {
+              "icd-10-code": ""
+            },
+            "In sustained remission": {
+              "icd-10-code": ""
+            }
+          },
+          "1 Pharmaceutical Cannabis Receptor Agonist Induced Delirium": {
+            "icd-10-code": ""
+          }
+        },
+        "Unspecified Cannabis-Related Disorder": {
+          "icd-10-code": ""
+        }
+      },
+      "Hallucinogen-Related Disorders": {
+        "___.__ Phencyclidine Use Disorder": {
+          "Mild": {
+            "icd-10-code": ""
+          },
+          "Moderate": {
+            "icd-10-code": ""
+          },
+          "Severe": {
+            "icd-10-code": ""
+          },
+          "In early remission": {
+            "icd-10-code": ""
+          },
+          "In sustained remission": {
+            "icd-10-code": ""
+          }
+        }
+      },
+      "___.__ Other Hallucinogen Use Disorder": {
+        "Mild": {
+          "icd-10-code": ""
+        },
+        "Moderate": {
+          "icd-10-code": ""
+        },
+        "Severe": {
+          "icd-10-code": ""
+        }
+      },
+      "___.__ Phencyclidine Intoxication": {
+        "0 With mild use disorder": {
+          "icd-10-code": ""
+        },
+        "0 With moderate or severe use disorder": {
+          "icd-10-code": ""
+        },
+        "0 Without use disorder": {
+          "icd-10-code": ""
+        }
+      },
+      "___.__ Other Hallucinogen Intoxication": {
+        "0 With mild use disorder": {
+          "icd-10-code": ""
+        },
+        "0 With moderate or severe use disorder": {
+          "icd-10-code": ""
+        },
+        "0 Without use disorder": {
+          "icd-10-code": ""
+        }
+      },
+      "3 Hallucinogen Persisting Perception Disorder": {
+        "icd-10-code": ""
+      },
+      "___.__ Phencyclidine-Induced Mental Disorders": {
+        "___.__ Phencyclidine-Induced Psychotic Disorder": {
+          "9 With mild use disorder": {
+            "icd-10-code": ""
+          },
+          "9 With moderate or severe use disorder": {
+            "icd-10-code": ""
+          },
+          "9 Without use disorder": {
+            "icd-10-code": ""
+          }
+        },
+        "___.__ Phencyclidine-Induced Bipolar and Related Disorder": {
+          "With mild use disorder": {
+            "icd-10-code": ""
+          },
+          "With moderate or severe use disorder": {
+            "icd-10-code": ""
+          },
+          "Without use disorder": {
+            "icd-10-code": ""
+          }
+        },
+        "___.__ Phencyclidine-Induced Depressive Disorder": {
+          "With mild use disorder": {
+            "icd-10-code": ""
+          },
+          "With moderate or severe use disorder": {
+            "icd-10-code": ""
+          },
+          "Without use disorder": {
+            "icd-10-code": ""
+          }
+        },
+        "___.__ Phencyclidine-Induced Anxiety Disorder": {
+          "0 With mild use disorder": {
+            "icd-10-code": ""
+          },
+          "0 With moderate or severe use disorder": {
+            "icd-10-code": ""
+          },
+          "0 Without use disorder": {
+            "icd-10-code": ""
+          }
+        },
+        "___.__ Phencyclidine Intoxication Delirium": {
+          "1 With mild use disorder": {
+            "icd-10-code": ""
+          },
+          "1 With moderate or severe use disorder": {
+            "icd-10-code": ""
+          },
+          "1 Without use disorder": {
+            "icd-10-code": ""
+          }
+        }
+      },
+      "___.__ Hallucinogen-Induced Mental Disorders": {
+        "___.__ Other Hallucinogen Induced Psychotic Disorder": {
+          "9 With mild use disorder": {
+            "icd-10-code": ""
+          },
+          "9 With moderate or severe use disorder": {
+            "icd-10-code": ""
+          },
+          "9 Without use disorder": {
+            "icd-10-code": ""
+          }
+        },
+        "___.__ Other Hallucinogen Induced Bipolar and Related Disorder": {
+          "With mild use disorder": {
+            "icd-10-code": ""
+          },
+          "With moderate or severe use disorder": {
+            "icd-10-code": ""
+          },
+          "Without use disorder": {
+            "icd-10-code": ""
+          }
+        },
+        "___.__ Other Hallucinogen Induced Depressive Disorder": {
+          "With mild use disorder": {
+            "icd-10-code": ""
+          },
+          "With moderate or severe use disorder": {
+            "icd-10-code": ""
+          },
+          "Without use disorder": {
+            "icd-10-code": ""
+          }
+        },
+        "___.__ Other Hallucinogen-Induced Anxiety Disorder": {
+          "0 With mild use disorder": {
+            "icd-10-code": ""
+          },
+          "0 With moderate or severe use disorder": {
+            "icd-10-code": ""
+          },
+          "0 Without use disorder": {
+            "icd-10-code": ""
+          }
+        },
+        "___.__ Other Hallucinogen Intoxication delirium": {
+          "1 With mild use disorder": {
+            "icd-10-code": ""
+          },
+          "1 With moderate or severe use disorder": {
+            "icd-10-code": ""
+          },
+          "1 Without use disorder": {
+            "icd-10-code": ""
+          }
+        },
+        "1 Ketamine or Other Hallucinogen Induced Delirium": {
+          "icd-10-code": ""
+        },
+        "Unspecified Phencyclidine-Related Disorder": {
+          "icd-10-code": ""
+        },
+        "Unspecified Hallucinogen-Related Disorder": {
+          "icd-10-code": ""
+        }
+      },
+      "Inhalant-Related Disorders": {
+        "___.__ Inhalant Use Disorder": {
+          "Mild": {
+            "icd-10-code": ""
+          },
+          "Moderate": {
+            "icd-10-code": ""
+          },
+          "Severe": {
+            "icd-10-code": ""
+          }
+        },
+        "___.__ Inhalant Intoxication": {
+          "0 With mild use disorder": {
+            "icd-10-code": ""
+          },
+          "0 With moderate or severe use disorder": {
+            "icd-10-code": ""
+          },
+          "0 Without use disorder": {
+            "icd-10-code": ""
+          }
+        },
+        "___.__ Inhalant-Induced Mental Disorders": {
+          "___.__ Inhalant-Induced Psychotic Disorder": {
+            "9 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "9 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "9 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Inhalant-Induced Depressive Disorder": {
+            "With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Inhalant-Induced Anxiety Disorder": {
+            "0 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "0 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "0 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Inhalant Intoxication Delirium": {
+            "1 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "1 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "1 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Inhalant-Induced Major Neurocognitive Disorder": {
+            "With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Inhalant-Induced Mild Neurocognitive Disorder": {
+            "8 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "8 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "8 Without use disorder": {
+              "icd-10-code": ""
+            },
+            "In early remission": {
+              "icd-10-code": ""
+            },
+            "In sustained remission": {
+              "icd-10-code": ""
+            }
+          }
+        },
+        "Unspecified Inhalant-Related Disorder": {
+          "icd-10-code": ""
+        }
+      },
+      "Opioid-Related Disorders": {
+        "___.__ Opioid Use Disorder": {
+          "Mild": {
+            "icd-10-code": ""
+          },
+          "Moderate": {
+            "icd-10-code": ""
+          },
+          "Severe": {
+            "icd-10-code": ""
+          }
+        },
+        "___.__ Opioid Intoxication": {
+          "Without perceptual disturbances": {
+            "0 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "0 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "0 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "With perceptual disturbances": {
+            "2 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "2 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "2 Without use disorder": {
+              "icd-10-code": ""
+            }
+          }
+        },
+        "___.__ Opioid Withdrawal": {
+          "With mild use disorder": {
+            "icd-10-code": ""
+          },
+          "With moderate or severe use disorder": {
+            "icd-10-code": ""
+          },
+          "Without use disorder": {
+            "icd-10-code": ""
+          }
+        },
+        "___.__ Opioid-Induced Mental Disorders": {
+          "___.__ Opioid-Induced Depressive Disorder": {
+            "With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Opioid-Induced Anxiety Disorder": {
+            "0 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "0 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "0 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Opioid-Induced Sleep Disorder": {
+            "2 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "2 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "2 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Opioid-Induced Sexual Dysfunction": {
+            "1 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "1 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "1 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Opioid Intoxication delirium": {
+            "1 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "1 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "1 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Opioid Withdrawal delirium": {
+            "8 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "8 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "8 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Opioid-Induced delirium": {
+            "1 When opioid medication taken as prescribed": {
+              "icd-10-code": ""
+            },
+            "8 During withdrawal from opioid medication taken as prescribed": {
+              "icd-10-code": ""
+            },
+            "In early remission": {
+              "icd-10-code": ""
+            },
+            "In sustained remission": {
+              "icd-10-code": ""
+            }
+          }
+        },
+        "Unspecified Opioid-Related Disorder": {
+          "icd-10-code": ""
+        }
+      },
+      "Sedative-, Hypnotic-, or Anxiolytic-Related Disorders": {
+        "___.__ Sedative, Hypnotic, or Anxiolytic Use Disorder": {
+          "Mild": {
+            "icd-10-code": ""
+          },
+          "Moderate": {
+            "icd-10-code": ""
+          },
+          "Severe": {
+            "icd-10-code": ""
+          }
+        },
+        "___.__ Sedative, Hypnotic, or Anxiolytic Intoxication": {
+          "0 With mild use disorder": {
+            "icd-10-code": ""
+          },
+          "0 With moderate or severe use disorder": {
+            "icd-10-code": ""
+          },
+          "0 Without use disorder": {
+            "icd-10-code": ""
+          }
+        },
+        "___.__ Sedative, Hypnotic, or Anxiolytic Withdrawal": {
+          "Without perceptual disturbances": {
+            "0 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "0 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "0 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "With perceptual disturbances": {
+            "2 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "2 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "2 Without use disorder": {
+              "icd-10-code": ""
+            }
+          }
+        },
+        "___.__ Sedative-, Hypnotic-, or Anxiolytic-Induced Mental Disorders": {
+          "___.__ Sedative-, Hypnotic-, or Anxiolytic-Induced Psychotic Disorder": {
+            "9 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "9 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "9 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Sedative-, Hypnotic-, or Anxiolytic-Induced Bipolar and Related Disorder": {
+            "With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Sedative-, Hypnotic-, or Anxiolytic-Induced Depressive Disorder": {
+            "With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Sedative-, Hypnotic-, or Anxiolytic-Induced Anxiety Disorder": {
+            "0 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "0 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "0 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Sedative-, Hypnotic-, or Anxiolytic-Induced Sleep Disorder": {
+            "2 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "2 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "2 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Sedative-, Hypnotic-, or Anxiolytic-Induced Sexual Dysfunction": {
+            "1 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "1 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "1 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Sedative-, Hypnotic-, or Anxiolytic Intoxication delirium": {
+            "1 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "1 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "1 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Sedative-, Hypnotic-, or Anxiolytic Withdrawal delirium": {
+            "1 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "1 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "1 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Sedative-, Hypnotic-, or Anxiolytic-Induced delirium": {
+            "1 When sedative, hypnotic, or anxiolytic medication taken as prescribed": {
+              "icd-10-code": ""
+            },
+            "1 During withdrawal from sedative, hypnotic, or anxiolytic medication taken as prescribed": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Sedative-, Hypnotic-, or Anxiolytic-Induced Major Neurocognitive Disorder": {
+            "With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Sedative-, Hypnotic-, or Anxiolytic-Induced Mild Neurocognitive Disorder": {
+            "8 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "8 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "8 Without use disorder": {
+              "icd-10-code": ""
+            }
+          }
+        },
+        "Unspecified Sedative-, Hypnotic-, or Anxiolytic-Related Disorder": {
+          "icd-10-code": ""
+        }
+      },
+      "Stimulant-Related Disorders": {
+        "___.__ Stimulant Use Disorder": {
+          "___.__ Mild": {
+            "Amphetamine-type substance": {
+              "icd-10-code": ""
+            },
+            "Cocaine": {
+              "icd-10-code": ""
+            },
+            "Other or unspecified stimulant": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Mild, In early remission": {
+            "Amphetamine-type substance": {
+              "icd-10-code": ""
+            },
+            "Cocaine": {
+              "icd-10-code": ""
+            },
+            "Other or unspecified stimulant": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Mild, In sustained remission": {
+            "Amphetamine-type substance": {
+              "icd-10-code": ""
+            },
+            "Cocaine": {
+              "icd-10-code": ""
+            },
+            "Other or unspecified stimulant": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Moderate": {
+            "Amphetamine-type substance": {
+              "icd-10-code": ""
+            },
+            "Cocaine": {
+              "icd-10-code": ""
+            },
+            "Other or unspecified stimulant": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Moderate, In early remission": {
+            "Amphetamine-type substance": {
+              "icd-10-code": ""
+            },
+            "Cocaine": {
+              "icd-10-code": ""
+            },
+            "Other or unspecified stimulant": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Moderate, In sustained remission": {
+            "Amphetamine-type substance": {
+              "icd-10-code": ""
+            },
+            "Cocaine": {
+              "icd-10-code": ""
+            },
+            "Other or unspecified stimulant": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Severe": {
+            "Amphetamine-type substance": {
+              "icd-10-code": ""
+            },
+            "Cocaine": {
+              "icd-10-code": ""
+            },
+            "Other or unspecified stimulant": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Severe, In early remission": {
+            "Amphetamine-type substance": {
+              "icd-10-code": ""
+            },
+            "Cocaine": {
+              "icd-10-code": ""
+            },
+            "Other or unspecified stimulant": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Severe, In sustained remission": {
+            "Amphetamine-type substance": {
+              "icd-10-code": ""
+            },
+            "Cocaine": {
+              "icd-10-code": ""
+            },
+            "Other or unspecified stimulant": {
+              "icd-10-code": ""
+            }
+          }
+        },
+        "___.__ Stimulant Intoxication": {
+          "Without perceptual disturbances": {
+            "___.__ Amphetamine-type substance or other stimulant intoxication": {
+              "0 With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "0 With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "0 Without use disorder": {
+                "icd-10-code": ""
+              }
+            },
+            "___.__ Cocaine intoxication": {
+              "0 With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "0 With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "0 Without use disorder": {
+                "icd-10-code": ""
+              }
+            }
+          },
+          "With perceptual disturbances": {
+            "___.__ Amphetamine-type substance or other stimulant intoxication": {
+              "2 With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "2 With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "2 Without use disorder": {
+                "icd-10-code": ""
+              }
+            },
+            "___.__ Cocaine intoxication": {
+              "2 With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "2 With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "2 Without use disorder": {
+                "icd-10-code": ""
+              }
+            }
+          },
+          "___.__ Stimulant Withdrawal": {
+            "___.__ Amphetamine-type substance or other stimulant withdrawal": {
+              "With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "Without use disorder": {
+                "icd-10-code": ""
+              }
+            },
+            "___.__ Cocaine withdrawal": {
+              "With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "Without use disorder": {
+                "icd-10-code": ""
+              }
+            },
+            "___.__ Amphetamine-Type Substance (or Other Stimulant) Induced Psychotic Disorder": {
+              "9 With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "9 With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "9 Without use disorder": {
+                "icd-10-code": ""
+              }
+            },
+            "___.__ Cocaine-Induced Psychotic Disorder": {
+              "9 With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "9 With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "9 Without use disorder": {
+                "icd-10-code": ""
+              }
+            },
+            "___.__ Amphetamine-Type Substance (or Other Stimulant) Induced Bipolar and Related Disorder": {
+              "With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "Without use disorder": {
+                "icd-10-code": ""
+              }
+            },
+            "___.__ Cocaine-Induced Bipolar and Related Disorder": {
+              "With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "Without use disorder": {
+                "icd-10-code": ""
+              }
+            },
+            "___.__ Amphetamine-Type Substance (or Other Stimulant) Induced Depressive Disorder": {
+              "With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "Without use disorder": {
+                "icd-10-code": ""
+              }
+            },
+            "___.__ Cocaine-Induced Depressive Disorder": {
+              "With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "Without use disorder": {
+                "icd-10-code": ""
+              }
+            },
+            "___.__ Amphetamine-Type Substance (or Other Stimulant) Induced Anxiety Disorder": {
+              "0 With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "0 With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "0 Without use disorder": {
+                "icd-10-code": ""
+              }
+            },
+            "___.__ Cocaine-Induced Anxiety Disorder": {
+              "0 With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "0 With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "0 Without use disorder": {
+                "icd-10-code": ""
+              }
+            },
+            "___.__ Amphetamine-Type Substance (or Other Stimulant) Induced Obsessive-Compulsive and Related Disorder": {
+              "8 With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "8 With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "8 Without use disorder": {
+                "icd-10-code": ""
+              }
+            },
+            "___.__ Cocaine-Induced Obsessive-Compulsive and Related Disorder": {
+              "8 With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "8 With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "8 Without use disorder": {
+                "icd-10-code": ""
+              }
+            },
+            "___.__ Amphetamine-Type Substance (or Other Stimulant) Induced Sleep Disorder": {
+              "2 With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "2 With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "2 Without use disorder": {
+                "icd-10-code": ""
+              }
+            },
+            "___.__ Cocaine-Induced Sleep Disorder": {
+              "2 With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "2 With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "2 Without use disorder": {
+                "icd-10-code": ""
+              }
+            },
+            "___.__ Amphetamine-Type Substance (or Other Stimulant) Induced Sexual Dysfunction": {
+              "1 With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "1 With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "1 Without use disorder": {
+                "icd-10-code": ""
+              }
+            },
+            "___.__ Cocaine-Induced Sexual Dysfunction": {
+              "1 With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "1 With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "1 Without use disorder": {
+                "icd-10-code": ""
+              }
+            },
+            "___.__ Amphetamine-Type Substance (or Other Stimulant) Intoxication delirium": {
+              "1 With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "1 With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "1 Without use disorder": {
+                "icd-10-code": ""
+              }
+            },
+            "___.__ Cocaine Intoxication delirium": {
+              "1 With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "1 With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "1 Without use disorder": {
+                "icd-10-code": ""
+              }
+            },
+            "1 Amphetamine-Type (or Other Stimulant) Medication Induced delirium": {
+              "icd-10-code": ""
+            },
+            "___.__ Amphetamine-Type Substance (or Other Stimulant) Induced Mild Neurocognitive Disorder": {
+              "8 With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "8 With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "8 Without use disorder": {
+                "icd-10-code": ""
+              }
+            },
+            "___.__ Cocaine-Induced Mild Neurocognitive Disorder": {
+              "8 With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "8 With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "8 Without use disorder": {
+                "icd-10-code": ""
+              }
+            },
+            "1 In early remission": {
+              "icd-10-code": ""
+            },
+            "1 In sustained remission": {
+              "icd-10-code": ""
+            },
+            "In early remission": {
+              "icd-10-code": ""
+            },
+            "In sustained remission": {
+              "icd-10-code": ""
+            },
+            "Without perceptual disturbances": {
+              "0 With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "0 With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "0 Without use disorder": {
+                "icd-10-code": ""
+              }
+            },
+            "With perceptual disturbances": {
+              "2 With mild use disorder": {
+                "icd-10-code": ""
+              },
+              "2 With moderate or severe use disorder": {
+                "icd-10-code": ""
+              },
+              "2 Without use disorder": {
+                "icd-10-code": ""
+              }
+            }
+          }
+        },
+        "___.__ Stimulant-Induced Mental Disorders": {},
+        "___.__ Unspecified Stimulant-Related Disorder": {
+          "Amphetamine-type substance or other stimulant": {
+            "icd-10-code": ""
+          },
+          "Cocaine": {
+            "icd-10-code": ""
+          }
+        }
+      },
+      "Tobacco-Related Disorders": {
+        "___.__ Tobacco Use Disorder": {
+          "Mild": {
+            "icd-10-code": ""
+          },
+          "0 Moderate": {
+            "icd-10-code": ""
+          },
+          "0 Severe": {
+            "icd-10-code": ""
+          }
+        },
+        "3 Tobacco Withdrawal": {
+          "icd-10-code": ""
+        },
+        "___.__ Tobacco-Induced Mental Disorders": {
+          "8 Tobacco-Induced Sleep Disorder, with moderate or severe use disorder": {
+            "icd-10-code": ""
+          }
+        },
+        "9 Unspecified Tobacco-Related Disorder": {
+          "icd-10-code": ""
+        }
+      },
+      "Other (or Unknown) Substance Related Disorders": {
+        "___.__ Other (or Unknown) Substance Use Disorder": {
+          "Mild": {
+            "icd-10-code": ""
+          },
+          "Moderate": {
+            "icd-10-code": ""
+          },
+          "Severe": {
+            "icd-10-code": ""
+          }
+        },
+        "___.__ Other (or Unknown) Substance Intoxication": {},
+        "___.__ Other (or Unknown) Substance Withdrawal": {},
+        "___.__ Other (or Unknown) Substance Induced Mental Disorders": {
+          "___.__ Other (or Unknown) Substance Induced Psychotic Disorder": {
+            "9 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "9 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "9 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Other (or Unknown) Substance Induced Bipolar and Related Disorder": {
+            "With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Other (or Unknown) Substance Induced Depressive Disorder": {
+            "With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Other (or Unknown) Substance Induced Anxiety Disorder": {
+            "0 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "0 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "0 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Other (or Unknown) Substance Induced Obsessive-Compulsive and Related Disorder": {
+            "8 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "8 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "8 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Other (or Unknown) Substance Induced Sleep Disorder": {
+            "2 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "2 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "2 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Other (or Unknown) Substance Induced Sexual Dysfunction": {
+            "1 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "1 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "1 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Other (or Unknown) Substance Intoxication delirium": {
+            "1 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "1 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "1 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Other (or Unknown) Substance Withdrawal delirium": {
+            "1 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "1 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "1 Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Other (or Unknown) Medication Induced delirium": {
+            "1 When other (or unknown) medication taken as prescribed": {
+              "icd-10-code": ""
+            },
+            "1 During withdrawal from other (or unknown) medication taken as prescribed": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__Other (or Unknown) Substance Induced Major Neurocognitive Disorder": {
+            "With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "Without use disorder": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Other (or Unknown) Substance Induced Mild Neurocognitive Disorder": {
+            "8 With mild use disorder": {
+              "icd-10-code": ""
+            },
+            "8 With moderate or severe use disorder": {
+              "icd-10-code": ""
+            },
+            "8 Without use disorder": {
+              "icd-10-code": ""
+            }
+          }
+        },
+        "Unspecified Other (or Unknown) Substance Related Disorder": {
+          "icd-10-code": ""
+        }
+      },
+      "Non-Substance-Related Disorders": {
+        "Gambling Disorder": {
+          "icd-10-code": ""
+        }
+      }
+    }
+  },
+  "NEUROCOGNITIVE DISORDERS": {
+    "___.__ Delirium": {
+      "___.__ Substance intoxication delirium": {},
+      "___.__ Substance withdrawal delirium": {},
+      "___.__ Medication-induced delirium": {},
+      "Delirium due to another medical condition": {
+        "icd-10-code": ""
+      },
+      "Delirium due to multiple etiologies": {
+        "icd-10-code": ""
+      }
+    },
+    "Other Specified Delirium": {
+      "icd-10-code": ""
+    },
+    "Unspecified Delirium": {
+      "icd-10-code": ""
+    },
+    "Major and Mild Neurocognitive Disorders": {
+      "Major or Mild Neurocognitive Disorder Due to Alzheimer\u2019s Disease": {
+        "___.__ Major Neurocognitive Disorder Due to Probable Alzheimer\u2019s Disease": {
+          "With behavioral disturbance": {
+            "icd-10-code": ""
+          },
+          "Without behavioral disturbance": {
+            "icd-10-code": ""
+          }
+        },
+        "___.__ Major Neurocognitive Disorder Due to Possible Alzheimer\u2019s Disease": {
+          "With behavioral disturbance": {
+            "icd-10-code": ""
+          },
+          "Without behavioral disturbance": {
+            "icd-10-code": ""
+          }
+        },
+        "Mild Neurocognitive Disorder Due to Alzheimer\u2019s Disease": {
+          "icd-10-code": ""
+        }
+      },
+      "Major or Mild Frontotemporal Neurocognitive Disorder": {
+        "___.__ Major Neurocognitive Disorder Due to Probable Frontotemporal Degeneration": {
+          "With behavioral disturbance": {
+            "icd-10-code": ""
+          },
+          "Without behavioral disturbance": {
+            "icd-10-code": ""
+          }
+        }
+      },
+      "Major Neurocognitive Disorder Due to Possible Frontotemporal Degeneration": {
+        "___.__ Major Neurocognitive Disorder Due to Possible Frontotemporal Degeneration": {
+          "With behavioral disturbance": {
+            "icd-10-code": ""
+          },
+          "Without behavioral disturbance": {
+            "icd-10-code": ""
+          },
+          "___.__ Major Neurocognitive Disorder With Probable Lewy Bodies": {
+            "With behavioral disturbance": {
+              "icd-10-code": ""
+            },
+            "Without behavioral disturbance": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Major Neurocognitive Disorder With Possible Lewy Bodies": {
+            "With behavioral disturbance": {
+              "icd-10-code": ""
+            },
+            "Without behavioral disturbance": {
+              "icd-10-code": ""
+            }
+          },
+          "Mild Neurocognitive Disorder With Lewy Bodies": {
+            "icd-10-code": ""
+          },
+          "___.__ Major Neurocognitive Disorder Probably Due to Vascular Disease": {
+            "With behavioral disturbance": {
+              "icd-10-code": ""
+            },
+            "Without behavioral disturbance": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Major Neurocognitive Disorder Possibly Due to Vascular Disease": {
+            "With behavioral disturbance": {
+              "icd-10-code": ""
+            },
+            "Without behavioral disturbance": {
+              "icd-10-code": ""
+            }
+          },
+          "Mild Neurocognitive Disorder Due to Vascular Disease": {
+            "icd-10-code": ""
+          },
+          "___.__ Major Neurocognitive Disorder Due to Traumatic Brain Injury": {
+            "With behavioral disturbance": {
+              "icd-10-code": ""
+            },
+            "Without behavioral disturbance": {
+              "icd-10-code": ""
+            }
+          },
+          "Mild Neurocognitive Disorder Due to Traumatic Brain Injury": {
+            "icd-10-code": ""
+          },
+          "___.__ Substance/Medication-Induced Major Neurocognitive Disorder": {},
+          "___.___ Substance/Medication-Induced Mild Neurocognitive Disorder": {},
+          "___.__ Major Neurocognitive Disorder Due to HIV Infection": {
+            "With behavioral disturbance": {
+              "icd-10-code": ""
+            },
+            "Without behavioral disturbance": {
+              "icd-10-code": ""
+            }
+          },
+          "Mild Neurocognitive Disorder Due to HIV Infection": {
+            "icd-10-code": ""
+          },
+          "___.__ Major Neurocognitive Disorder Due to Prion Disease": {
+            "With behavioral disturbance": {
+              "icd-10-code": ""
+            },
+            "Without behavioral disturbance": {
+              "icd-10-code": ""
+            }
+          },
+          "Mild Neurocognitive Disorder Due to Prion Disease": {
+            "icd-10-code": ""
+          },
+          "___.__ Major Neurocognitive Disorder Probably Due to Parkinson\u2019s Disease": {
+            "With behavioral disturbance": {
+              "icd-10-code": ""
+            },
+            "Without behavioral disturbance": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Major Neurocognitive Disorder Possibly Due to Parkinson\u2019s Disease": {
+            "With behavioral disturbance": {
+              "icd-10-code": ""
+            },
+            "Without behavioral disturbance": {
+              "icd-10-code": ""
+            }
+          },
+          "Mild Neurocognitive Disorder Due to Parkinson\u2019s Disease": {
+            "icd-10-code": ""
+          },
+          "___.__ Major Neurocognitive Disorder Due to Huntington\u2019s Disease": {
+            "With behavioral disturbance": {
+              "icd-10-code": ""
+            },
+            "Without behavioral disturbance": {
+              "icd-10-code": ""
+            }
+          },
+          "Mild Neurocognitive Disorder Due to Huntington\u2019s Disease": {
+            "icd-10-code": ""
+          },
+          "___.__ Major Neurocognitive Disorder Due to Another Medical Condition": {
+            "With behavioral disturbance": {
+              "icd-10-code": ""
+            },
+            "Without behavioral disturbance": {
+              "icd-10-code": ""
+            }
+          },
+          "Mild Neurocognitive Disorder Due to Another Medical Condition": {
+            "icd-10-code": ""
+          },
+          "___.__ Major Neurocognitive Disorder Due to Multiple Etiologies": {
+            "With behavioral disturbance": {
+              "icd-10-code": ""
+            },
+            "Without behavioral disturbance": {
+              "icd-10-code": ""
+            }
+          },
+          "Mild Neurocognitive Disorder Due to Multiple Etiologies": {
+            "icd-10-code": ""
+          }
+        },
+        "Mild Neurocognitive Disorder Due to Frontotemporal Degeneration": {
+          "icd-10-code": ""
+        }
+      },
+      "Major or Mild Neurocognitive Disorder With Lewy Bodies": {},
+      "Major or Mild Vascular Neurocognitive Disorder": {},
+      "Major or Mild Neurocognitive Disorder Due to Traumatic Brain Injury": {},
+      "Substance/Medication-Induced Major or Mild Neurocognitive Disorder": {},
+      "Major or Mild Neurocognitive Disorder Due to HIV Infection": {},
+      "Major or Mild Neurocognitive Disorder Due to Prion Disease": {},
+      "Major or Mild Neurocognitive Disorder Due to Parkinson\u2019s Disease": {},
+      "Major or Mild Neurocognitive Disorder Due to Huntington\u2019s Disease": {},
+      "Major or Mild Neurocognitive Disorder Due to Another Medical Condition": {},
+      "Major or Mild Neurocognitive Disorder Due to Multiple Etiologies": {
+        "Unspecified Neurocognitive Disorder": {
+          "icd-10-code": ""
+        }
+      }
+    }
+  },
+  "PERSONALITY DISORDERS": {
+    "Cluster A Personality Disorders": {
+      "Paranoid Personality Disorder": {
+        "icd-10-code": ""
+      },
+      "Schizoid Personality Disorder": {
+        "icd-10-code": ""
+      },
+      "Schizotypal Personality Disorder": {
+        "icd-10-code": ""
+      }
+    },
+    "Cluster B Personality Disorders": {
+      "Antisocial Personality Disorder": {
+        "icd-10-code": ""
+      },
+      "Borderline Personality Disorder": {
+        "icd-10-code": ""
+      },
+      "Histrionic Personality Disorder": {
+        "icd-10-code": ""
+      },
+      "Narcissistic Personality Disorder": {
+        "icd-10-code": ""
+      }
+    },
+    "Cluster C Personality Disorders": {
+      "Avoidant Personality Disorder": {
+        "icd-10-code": ""
+      },
+      "Dependent Personality Disorder": {
+        "icd-10-code": ""
+      },
+      "Obsessive-Compulsive Personality Disorder": {
+        "icd-10-code": ""
+      }
+    },
+    "Other Personality Disorders": {
+      "Personality Change Due to Another Medical Condition": {
+        "icd-10-code": ""
+      },
+      "Other Specified Personality Disorder": {
+        "icd-10-code": ""
+      },
+      "Unspecified Personality Disorder": {
+        "icd-10-code": ""
+      }
+    }
+  },
+  "PARAPHILIC DISORDERS": {
+    "Voyeuristic Disorder": {
+      "icd-10-code": ""
+    },
+    "Exhibitionistic Disorder": {
+      "icd-10-code": ""
+    },
+    "Frotteuristic Disorder": {
+      "icd-10-code": ""
+    },
+    "Sexual Masochism Disorder": {
+      "icd-10-code": ""
+    },
+    "Sexual Sadism Disorder": {
+      "icd-10-code": ""
+    },
+    "Pedophilic Disorder": {
+      "icd-10-code": ""
+    },
+    "Fetishistic Disorder": {
+      "icd-10-code": ""
+    },
+    "Transvestic Disorder": {
+      "icd-10-code": ""
+    },
+    "Other Specified Paraphilic Disorder": {
+      "icd-10-code": ""
+    },
+    "Unspecified Paraphilic Disorder": {
+      "icd-10-code": ""
+    }
+  },
+  "OTHER MENTAL DISORDERS AND ADDITIONAL CODES": {
+    "Other Specified Mental Disorder Due to Another Medical Condition": {
+      "icd-10-code": ""
+    },
+    "Unspecified Mental Disorder Due to Another Medical Condition": {
+      "icd-10-code": ""
+    },
+    "Other Specified Mental Disorder": {
+      "icd-10-code": ""
+    },
+    "Unspecified Mental Disorder": {
+      "icd-10-code": ""
+    },
+    "No Diagnosis or Condition": {
+      "icd-10-code": ""
+    }
+  },
+  "MEDICATION-INDUCED MOVEMENT DISORDERS AND OTHER ADVERSE EFFECTS OF MEDICATION": {
+    "___.__ Medication-Induced Parkinsonism": {
+      "Antipsychotic Medication and Other Dopamine Receptor Blocking Agent Induced Parkinsonism": {
+        "icd-10-code": ""
+      },
+      "Other Medication-Induced Parkinsonism": {
+        "icd-10-code": ""
+      }
+    },
+    "Neuroleptic Malignant Syndrome": {
+      "icd-10-code": ""
+    },
+    "Medication-Induced Acute Dystonia": {
+      "icd-10-code": ""
+    },
+    "Medication-Induced Acute Akathisia": {
+      "icd-10-code": ""
+    },
+    "Tardive Dyskinesia": {
+      "icd-10-code": ""
+    },
+    "Tardive Dystonia": {
+      "icd-10-code": ""
+    },
+    "Tardive Akathisia": {
+      "icd-10-code": ""
+    },
+    "Medication-Induced Postural Tremor": {
+      "icd-10-code": ""
+    },
+    "Other Medication-Induced Movement Disorder": {
+      "icd-10-code": ""
+    },
+    "___.__ Antidepressant Discontinuation Syndrome": {
+      "5A Initial encounter": {
+        "icd-10-code": ""
+      },
+      "5D Subsequent encounter": {
+        "icd-10-code": ""
+      },
+      "5S Sequelae": {
+        "icd-10-code": ""
+      }
+    },
+    "___.__ Other Adverse Effect of Medication": {
+      "5A Initial encounter": {
+        "icd-10-code": ""
+      },
+      "5D subsequent encounter": {
+        "icd-10-code": ""
+      },
+      "5S Sequelae": {
+        "icd-10-code": ""
+      }
+    }
+  },
+  "OTHER CONDITIONS THAT MAY BE A FOCUS OF CLINICAL ATTENTION": {
+    "Suicidal Behavior and Non-suicidal Self-Injury": {
+      "Suicidal Behavior": {
+        "___.__ Current Suicidal Behavior": {
+          "A Initial encounter": {
+            "icd-10-code": ""
+          },
+          "D Subsequent encounter": {
+            "icd-10-code": ""
+          }
+        },
+        "History of Suicidal Behavior": {
+          "icd-10-code": ""
+        }
+      },
+      "Non-suicidal Self-Injury": {
+        "Current Non-suicidal Self-Injury": {
+          "icd-10-code": ""
+        },
+        "History of Non-suicidal Self-Injury": {
+          "icd-10-code": ""
+        }
+      },
+      "Abuse and Neglect": {
+        "Child Maltreatment and Neglect Problems": {
+          "Child Physical Abuse": {},
+          "___.__ Child Physical Abuse, Confirmed": {
+            "XA Initial encounter": {
+              "icd-10-code": ""
+            },
+            "XD Subsequent encounter": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Child Physical Abuse, Suspected": {
+            "XA Initial encounter": {
+              "icd-10-code": ""
+            },
+            "XD Subsequent encounter": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Other Circumstances Related to Child Physical Abuse": {
+            "0 Encounter for mental health services for victim of child physical abuse by parent": {
+              "icd-10-code": ""
+            },
+            "0 Encounter for mental health services for victim of nonparental child physical abuse": {
+              "icd-10-code": ""
+            },
+            "0 Personal history (past history) of physical abuse in childhood": {
+              "icd-10-code": ""
+            },
+            "1 Encounter for mental health services for perpetrator of parental child physical abuse": {
+              "icd-10-code": ""
+            },
+            "1 Encounter for mental health services for perpetrator of nonparental child physical abuse": {
+              "icd-10-code": ""
+            }
+          }
+        },
+        "Child Sexual Abuse": {
+          "___.__ Child Sexual Abuse, Confirmed": {
+            "XA Initial encounter": {
+              "icd-10-code": ""
+            },
+            "XD Subsequent encounter": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Child Sexual Abuse, Suspected": {
+            "XA Initial encounter": {
+              "icd-10-code": ""
+            },
+            "XD Subsequent encounter": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Other Circumstances Related to Child Sexual Abuse": {
+            "0 Encounter for mental health services for victim of child sexual abuse by parent": {
+              "icd-10-code": ""
+            },
+            "0 Encounter for mental health services for victim of nonparental child sexual abuse": {
+              "icd-10-code": ""
+            },
+            "0 Personal history (past history) of sexual abuse in childhood": {
+              "icd-10-code": ""
+            },
+            "1 Encounter for mental health services for perpetrator of parental child sexual abuse": {
+              "icd-10-code": ""
+            },
+            "1 Encounter for mental health services for perpetrator of nonparental child sexual abuse": {
+              "icd-10-code": ""
+            }
+          }
+        },
+        "Child Neglect": {
+          "___.__ Child Neglect, Confirmed": {
+            "XA Initial encounter": {
+              "icd-10-code": ""
+            },
+            "XD Subsequent encounter": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Child Neglect, Suspected": {
+            "XA Initial encounter": {
+              "icd-10-code": ""
+            },
+            "XD Subsequent encounter": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Other Circumstances Related to Child Neglect": {
+            "0 Encounter for mental health services for victim of child neglect by parent": {
+              "icd-10-code": ""
+            },
+            "0 Encounter for mental health services for victim of nonparental child neglect": {
+              "icd-10-code": ""
+            },
+            "2 Personal history (past history) of neglect in childhood": {
+              "icd-10-code": ""
+            },
+            "1 Encounter for mental health services for perpetrator of parental child neglect": {
+              "icd-10-code": ""
+            },
+            "1 Encounter for mental health services for perpetrator of nonparental child neglect": {
+              "icd-10-code": ""
+            }
+          }
+        },
+        "Child Psychological Abuse": {
+          "___.__ Child Psychological Abuse, Confirmed": {
+            "XA Initial encounter": {
+              "icd-10-code": ""
+            },
+            "XD Subsequent encounter": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Child Psychological Abuse, Suspected": {
+            "XA Initial encounter": {
+              "icd-10-code": ""
+            },
+            "XD Subsequent encounter": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Other Circumstances Related to Child Psychological Abuse": {
+            "0 Encounter for mental health services for victim of child psychological abuse by parent": {
+              "icd-10-code": ""
+            },
+            "0 Encounter for mental health services for victim of nonparental child psychological abuse": {
+              "icd-10-code": ""
+            },
+            "1 Personal history (past history) of psychological abuse in childhood": {
+              "icd-10-code": ""
+            },
+            "1 Encounter for mental health services for perpetrator of parental child psychological abuse": {
+              "icd-10-code": ""
+            },
+            "1 Encounter for mental health services for perpetrator of nonparental child psychological abuse": {
+              "icd-10-code": ""
+            }
+          }
+        }
+      },
+      "Adult Maltreatment and Neglect Problems": {
+        "Spouse or Partner Violence, Physical": {
+          "___.__ Spouse or Partner Violence, Physical, Confirmed": {
+            "XA Initial encounter": {
+              "icd-10-code": ""
+            },
+            "XD Subsequent encounter": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Spouse or Partner Violence, Physical, Suspected": {
+            "XA Initial encounter": {
+              "icd-10-code": ""
+            },
+            "XD Subsequent encounter": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Other Circumstances Related to Spouse or Partner Violence, Physical": {
+            "Encounter for mental health services for victim of spouse or partner violence, physical": {
+              "icd-10-code": ""
+            },
+            "0 Personal history (past history) of spouse or partner violence, physical": {
+              "icd-10-code": ""
+            },
+            "Encounter for mental health services for perpetrator of spouse or partner violence, physical": {
+              "icd-10-code": ""
+            }
+          }
+        },
+        "Spouse or Partner Violence, Sexual": {
+          "___.__ Spouse or Partner Violence, Sexual, Confirmed": {
+            "XA Initial encounter": {
+              "icd-10-code": ""
+            },
+            "XD Subsequent encounter": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Spouse or Partner Violence, Sexual, Suspected": {
+            "XA Initial encounter": {
+              "icd-10-code": ""
+            },
+            "XD Subsequent encounter": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Other Circumstances Related to Spouse or Partner Violence, Sexual": {
+            "Encounter for mental health services for victim of spouse or partner violence, sexual": {
+              "icd-10-code": ""
+            },
+            "0 Personal history (past history) of spouse or partner violence, sexual": {
+              "icd-10-code": ""
+            },
+            "Encounter for mental health services for perpetrator of spouse or partner violence, sexual": {
+              "icd-10-code": ""
+            }
+          }
+        },
+        "Spouse or Partner Neglect": {
+          "___.__ Spouse or Partner Neglect, Confirmed": {
+            "XA Initial encounter": {
+              "icd-10-code": ""
+            },
+            "XD Subsequent encounter": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Spouse or Partner Neglect, Suspected": {
+            "XA Initial encounter": {
+              "icd-10-code": ""
+            },
+            "XD Subsequent encounter": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Other Circumstances Related to Spouse or Partner Neglect": {
+            "Encounter for mental health services for victim of spouse or partner neglect": {
+              "icd-10-code": ""
+            },
+            "2 Personal history (past history) of spouse or partner neglect": {
+              "icd-10-code": ""
+            },
+            "Encounter for mental health services for perpetrator of spouse or partner neglect": {
+              "icd-10-code": ""
+            }
+          }
+        },
+        "Spouse or Partner Abuse, Psychological": {
+          "___.__ Spouse or Partner Abuse, Psychological, Confirmed": {
+            "XA Initial encounter": {
+              "icd-10-code": ""
+            },
+            "XD Subsequent encounter": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Spouse or Partner Abuse, Psychological, Suspected": {
+            "XA Initial encounter": {
+              "icd-10-code": ""
+            },
+            "XD Subsequent encounter": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Other Circumstances Related to Spouse or Partner Abuse, Psychological": {
+            "Encounter for mental health services for victim of spouse or partner psychological abuse": {
+              "icd-10-code": ""
+            },
+            "1 Personal history (past history) of spouse or partner psychological abuse": {
+              "icd-10-code": ""
+            },
+            "Encounter for mental health services for perpetrator of spouse or partner psychological abuse": {
+              "icd-10-code": ""
+            }
+          }
+        },
+        "Adult Abuse by Non-spouse or Non-partner": {
+          "___.__ Adult Physical Abuse by Non-spouse or Non-partner, Confirmed": {
+            "XA Initial encounter": {
+              "icd-10-code": ""
+            },
+            "XD Subsequent encounter": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Adult Physical Abuse by Non-spouse or Non-partner, Suspected": {
+            "XA Initial encounter": {
+              "icd-10-code": ""
+            },
+            "XD Subsequent encounter": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Adult Sexual Abuse by Non-spouse or Non-partner, Confirmed": {
+            "XA Initial encounter": {
+              "icd-10-code": ""
+            },
+            "XD Subsequent encounter": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Adult Sexual Abuse by Non-spouse or Non-partner, Suspected": {
+            "XA Initial encounter": {
+              "icd-10-code": ""
+            },
+            "XD Subsequent encounter": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Adult Psychological Abuse by Non-spouse or Non-partner, Confirmed": {
+            "XA Initial encounter": {
+              "icd-10-code": ""
+            },
+            "XD Subsequent encounter": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Adult Psychological Abuse by Non-spouse or Non-partner, Suspected": {
+            "XA Initial encounter": {
+              "icd-10-code": ""
+            },
+            "XD Subsequent encounter": {
+              "icd-10-code": ""
+            }
+          },
+          "___.__ Other Circumstances Related to Adult Abuse by Non-spouse or Non-partner": {
+            "Encounter for mental health services for victim of non-spousal or Non-partner adult abuse": {
+              "icd-10-code": ""
+            },
+            "Encounter for mental health services for perpetrator of non-spousal or Non-partner adult abuse": {
+              "icd-10-code": ""
+            }
+          }
+        },
+        "Relational Problems": {
+          "___.__ Parent-Child Relational Problem": {
+            "0 Parent Biological Child": {
+              "icd-10-code": ""
+            },
+            "1 Parent Adopted Child": {
+              "icd-10-code": ""
+            },
+            "2 Parent Foster Child": {
+              "icd-10-code": ""
+            },
+            "8 Other Caregiver Child": {
+              "icd-10-code": ""
+            }
+          },
+          "1 Sibling Relational Problem": {
+            "icd-10-code": ""
+          },
+          "Relationship Distress With Spouse or Intimate Partner": {
+            "icd-10-code": ""
+          }
+        },
+        "Problems Related to the Family Environment": {
+          "Upbringing Away From Parents": {
+            "icd-10-code": ""
+          },
+          "8 Child Affected by Parental Relationship Distress": {
+            "icd-10-code": ""
+          },
+          "Disruption of Family by Separation or Divorce": {
+            "icd-10-code": ""
+          },
+          "High Expressed Emotion Level Within Family": {
+            "icd-10-code": ""
+          }
+        },
+        "Educational Problems": {
+          "Illiteracy and Low-Level Literacy": {
+            "icd-10-code": ""
+          },
+          "Schooling Unavailable and Unattainable": {
+            "icd-10-code": ""
+          },
+          "Failed School Examinations": {
+            "icd-10-code": ""
+          },
+          "Underachievement in School": {
+            "icd-10-code": ""
+          },
+          "Educational Maladjustment and Discord With Teachers and Classmates": {
+            "icd-10-code": ""
+          },
+          "Problems Related to Inadequate Teaching": {
+            "icd-10-code": ""
+          },
+          "Other Problems Related to Education and Literacy": {
+            "icd-10-code": ""
+          }
+        },
+        "Occupational Problems": {
+          "Problem Related to Current Military Deployment Status": {
+            "icd-10-code": ""
+          },
+          "Unemployment": {
+            "icd-10-code": ""
+          },
+          "Change of Job": {
+            "icd-10-code": ""
+          },
+          "Threat of Job Loss": {
+            "icd-10-code": ""
+          },
+          "Stressful Work Schedule": {
+            "icd-10-code": ""
+          },
+          "Discord With Boss and Workmates": {
+            "icd-10-code": ""
+          },
+          "Uncongenial Work Environment": {
+            "icd-10-code": ""
+          },
+          "Other Physical and Mental Strain Related to Work": {
+            "icd-10-code": ""
+          },
+          "Sexual Harassment on the Job": {
+            "icd-10-code": ""
+          },
+          "Other Problems Related to Employment": {
+            "icd-10-code": ""
+          }
+        },
+        "Housing Problems": {
+          "Sheltered Homelessness": {
+            "icd-10-code": ""
+          },
+          "Unsheltered Homelessness": {
+            "icd-10-code": ""
+          },
+          "Inadequate Housing": {
+            "icd-10-code": ""
+          },
+          "Discord With Neighbor, Lodger, or Landlord": {
+            "icd-10-code": ""
+          },
+          "Problem Related to Living in a Residential Institution": {
+            "icd-10-code": ""
+          },
+          "Other Housing Problems": {
+            "icd-10-code": ""
+          }
+        },
+        "Economic Problems": {
+          "Food Insecurity": {
+            "icd-10-code": ""
+          },
+          "Lack of Safe Drinking Water": {
+            "icd-10-code": ""
+          },
+          "Extreme Poverty": {
+            "icd-10-code": ""
+          },
+          "Low Income": {
+            "icd-10-code": ""
+          },
+          "Insufficient Social or Health Insurance or Welfare Support": {
+            "icd-10-code": ""
+          },
+          "Other Economic Problem": {
+            "icd-10-code": ""
+          }
+        },
+        "Problems Related to the Social Environment": {
+          "Problems Related to Living Alone": {
+            "icd-10-code": ""
+          },
+          "Acculturation Difficulty": {
+            "icd-10-code": ""
+          },
+          "Social Exclusion or Rejection": {
+            "icd-10-code": ""
+          },
+          "Target of (Perceived) Adverse Discrimination or Persecution": {
+            "icd-10-code": ""
+          },
+          "Other Problems Related to Social Environment": {
+            "icd-10-code": ""
+          }
+        },
+        "Problems Related to Interaction With the Legal System": {
+          "Conviction in Criminal Proceedings Without Imprisonment": {
+            "icd-10-code": ""
+          },
+          "Imprisonment or Other Incarceration": {
+            "icd-10-code": ""
+          },
+          "Problems Related to Release From Prison": {
+            "icd-10-code": ""
+          },
+          "Problems Related to Other Legal Circumstances": {
+            "icd-10-code": ""
+          }
+        },
+        "Problems Related to Other Psychosocial, Personal, and Environmental Circumstances": {
+          "Problem Related to Lifestyle": {
+            "icd-10-code": ""
+          },
+          "Problems Related to Unwanted Pregnancy": {
+            "icd-10-code": ""
+          },
+          "Problems Related to Multiparity": {
+            "icd-10-code": ""
+          },
+          "Discord With Social Service Provider, Including Probation Officer, Case Manager, or Social Services Worker": {
+            "icd-10-code": ""
+          },
+          "Victim of Crime": {
+            "icd-10-code": ""
+          },
+          "Victim of Terrorism or Torture": {
+            "icd-10-code": ""
+          },
+          "Exposure to Disaster, War, or Other Hostilities": {
+            "icd-10-code": ""
+          }
+        },
+        "Problems Related to Access to Medical and Other Health Care": {
+          "Unavailability or Inaccessibility of Health Care Facilities": {
+            "icd-10-code": ""
+          },
+          "Unavailability or Inaccessibility of Other Helping Agencies": {
+            "icd-10-code": ""
+          }
+        },
+        "Circumstances of Personal History": {
+          "Personal History of Psychological Trauma": {
+            "icd-10-code": ""
+          },
+          "Personal History of Military Deployment": {
+            "icd-10-code": ""
+          },
+          "Other Health Service Encounters for Counseling and Medical Advice": {},
+          "Genetic Counseling": {
+            "icd-10-code": ""
+          },
+          "Sex Counseling": {
+            "icd-10-code": ""
+          },
+          "Dietary Counseling": {
+            "icd-10-code": ""
+          },
+          "Other Counseling or Consultation": {
+            "icd-10-code": ""
+          }
+        },
+        "Additional Conditions or Problems That May Be a Focus of Clinical Attention": {
+          "Wandering Associated With a Mental Disorder": {
+            "icd-10-code": ""
+          },
+          "Uncomplicated Bereavement": {
+            "icd-10-code": ""
+          },
+          "Phase of Life Problem": {
+            "icd-10-code": ""
+          },
+          "Religious of Spiritual Problem": {
+            "icd-10-code": ""
+          },
+          "1 Adult Antisocial Behavior": {
+            "icd-10-code": ""
+          },
+          "0 Child or Adolescent Antisocial Behavior": {
+            "icd-10-code": ""
+          },
+          "Nonadherence to Medical Treatment": {
+            "icd-10-code": ""
+          },
+          "Overweight or Obesity": {
+            "icd-10-code": ""
+          },
+          "Malingering": {
+            "icd-10-code": ""
+          },
+          "Age-Related Cognitive Decline": {
+            "icd-10-code": ""
+          },
+          "Borderline Intellectual Functioning": {
+            "icd-10-code": ""
+          }
+        }
+      }
+    }
+  }
+}
